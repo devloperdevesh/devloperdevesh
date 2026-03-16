@@ -1,105 +1,161 @@
 <h1 align="center">Devesh Chauhan</h1>
+
 <p align="center">
-AI Backend Engineer • Distributed Systems • GenAI Infrastructure
+<strong>AI Backend Engineer</strong> • Distributed Systems • GenAI Infrastructure
+</p>
+
+<p align="center">
+Building scalable backend infrastructure for modern AI applications.
+</p>
+
+<p align="center">
+<a href="https://developerdevesh.vercel.app">Portfolio</a> •
+<a href="https://linkedin.com/in/devesh-chauhan-6b5691308">LinkedIn</a> •
+<a href="https://leetcode.com/u/devloperdevesh">LeetCode</a>
 </p>
 
 ---
 
 ## About
 
-Backend engineer building scalable AI systems and distributed backend infrastructure using Python.
+Backend engineer focused on building **scalable backend infrastructure for AI systems**.
 
-My work focuses on designing production-grade backend architectures for AI applications, including Retrieval-Augmented Generation (RAG) systems, asynchronous API services, and high-performance inference pipelines.
+My work centers on designing **production-grade architectures** for modern AI applications including:
 
-Key interests:
+* Retrieval-Augmented Generation (RAG) systems
+* LLM orchestration backends
+* High-performance asynchronous APIs
+* Distributed backend architectures
+* Scalable knowledge retrieval platforms
 
-- Distributed backend systems
-- Async API architecture
-- Retrieval-Augmented Generation (RAG)
-- LLM infrastructure
-- System design and scalable architecture
+I enjoy solving complex backend problems and building systems that move **from research prototypes to reliable production infrastructure**.
 
 ---
 
-## Core Engineering Stack
+## Engineering Focus
 
-Languages  
-Python • JavaScript • SQL  
+* AI Infrastructure & LLM Systems
+* Distributed Backend Architecture
+* Retrieval-Augmented Generation (RAG)
+* Scalable System Design
+* High-Performance Async APIs
 
-Backend  
-FastAPI • Async APIs • REST Services • Redis • Background Workers  
+---
 
-AI Systems  
-RAG Pipelines  
-Vector Databases (FAISS, ChromaDB)  
-Embeddings  
-OpenAI / HuggingFace APIs  
+## Technology Stack
 
-Data Systems  
-PostgreSQL • MongoDB  
+**Languages**
 
-Infrastructure  
+Python • JavaScript • SQL
+
+**Backend**
+
+FastAPI • Async APIs • REST Services • Redis • Background Workers
+
+**AI Systems**
+
+RAG Pipelines
+Vector Databases (FAISS, ChromaDB)
+Embeddings
+OpenAI APIs • HuggingFace Transformers
+
+**Data Systems**
+
+PostgreSQL • MongoDB
+
+**Infrastructure**
+
 Docker • Linux • AWS EC2 • Git
 
 ---
 
-## Engineering Projects
+## Selected Engineering Projects
 
 ### EnterpriseRAG AI
 
-Enterprise-grade knowledge retrieval system enabling natural language queries over private datasets.
+Enterprise-grade knowledge retrieval platform enabling natural language queries across private datasets.
 
-Key features:
+**Core Architecture**
 
-- Multi-tenant architecture
-- Async FastAPI backend
-- Semantic document ingestion
-- Vector retrieval pipelines
-- Low-latency RAG inference
+* Multi-tenant system design
+* Async FastAPI backend
+* Semantic document ingestion pipeline
+* Vector similarity retrieval
+* Low-latency RAG inference
 
 ---
 
 ### OmniChat AI
 
-Vendor-agnostic LLM orchestration backend enabling multi-model AI workflows.
+Backend platform for orchestrating multi-provider LLM workflows.
 
-Key features:
+**Core Architecture**
 
-- Provider abstraction layer
-- Concurrent async API architecture
-- Structured prompting pipeline
-- Response caching
+* Provider abstraction layer
+* Concurrent async request handling
+* Structured prompting pipelines
+* Response caching system
 
 ---
 
 ### IntelliDocs AI
 
-Document intelligence system using semantic search and Retrieval-Augmented Generation.
+Document intelligence platform using semantic search and contextual generation.
 
-Key features:
+**Core Architecture**
 
-- Embedding pipelines
-- Vector similarity search
-- Contextual answer generation
+* Embedding pipelines
+* Vector similarity search
+* Context-aware answer generation
+
+---
+
+### WebInsight Automator
+
+Automated data extraction platform for complex JavaScript-heavy websites.
+
+**Core Architecture**
+
+* Selenium-based scraping engine
+* Async FastAPI backend
+* Automated data pipelines
 
 ---
 
 ## Current Focus
 
-- Advanced RAG architectures
-- Scalable AI backend infrastructure
-- Distributed system design
-- High-performance API systems
+* Advanced Retrieval-Augmented Generation architectures
+* Scalable AI backend infrastructure
+* Distributed system design
+* High-performance API systems
 
 ---
 
-## Links
+## GitHub Stats
 
-Portfolio  
-https://developerdevesh.vercel.app  
+<p align="center">
 
-LinkedIn  
-https://linkedin.com/in/devesh-chauhan-6b5691308  
+<img src="https://github-readme-stats.vercel.app/api?username=devloperdevesh&show_icons=true&rank_icon=github" />
 
-LeetCode  
-https://leetcode.com/u/devloperdevesh
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devloperdevesh" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloperdevesh&layout=compact" />
+
+</p>
+
+---
+
+## Collaboration
+
+Interested in collaborating on:
+
+* AI infrastructure projects
+* Retrieval-Augmented Generation platforms
+* developer tooling for AI systems
+* scalable backend architectures
+
+---
+
+<p align="center">
+Building reliable infrastructure for intelligent systems.
+</p>
