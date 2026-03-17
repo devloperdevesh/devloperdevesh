@@ -1,35 +1,34 @@
 <h1 align="center">Devesh Chauhan</h1>
 
 <p align="center">
-<strong>AI Backend Engineer</strong> • GenAI Infrastructure • Distributed Systems
+  <strong>AI Backend Engineer</strong><br/>
+  GenAI Infrastructure • Distributed Systems
 </p>
 
 <p align="center">
-Building scalable backend systems for AI applications, from RAG pipelines to production-grade LLM infrastructure.
+  Building scalable backend systems for AI applications — from RAG pipelines to production-grade LLM infrastructure.
 </p>
 
 <p align="center">
-<a href="https://developerdevesh.vercel.app">Portfolio</a> •
-<a href="https://linkedin.com/in/devesh-chauhan-6b5691308">LinkedIn</a> •
-<a href="https://leetcode.com/u/devloperdevesh">LeetCode</a> •
-<a href="https://codeforces.com/profile/deveshchauhan00001">Codeforces</a>
+  <a href="https://developerdevesh.vercel.app">Portfolio</a> •
+  <a href="https://linkedin.com/in/devesh-chauhan-6b5691308">LinkedIn</a> •
+  <a href="https://leetcode.com/u/devloperdevesh">LeetCode</a> •
+  <a href="https://codeforces.com/profile/deveshchauhan00001">Codeforces</a>
 </p>
 
 ---
 
 ## About
 
-Backend engineer specializing in **AI infrastructure and distributed systems**.
+Backend engineer focused on **AI infrastructure and distributed systems**.
 
-I design and build **production-grade backend architectures** powering modern AI applications:
+Designing and building **production-grade backend architectures** for modern AI applications:
 
 - Retrieval-Augmented Generation (RAG) systems  
 - LLM orchestration backends  
 - High-performance async APIs  
-- Distributed system architectures  
+- Distributed system design  
 - Scalable knowledge retrieval platforms  
-
-Focused on turning **complex AI systems into reliable, scalable production infrastructure**.
 
 ---
 
@@ -43,16 +42,16 @@ Focused on turning **complex AI systems into reliable, scalable production infra
 
 ---
 
-## Algorithmic Engineering Practice (DSA + SQL)
+## Algorithmic Engineering
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/devloperdevesh?theme=dark&font=baloo" />
+  <img src="https://leetcard.jacoblin.cool/devloperdevesh?theme=dark&font=baloo" />
 </p>
 
-- Strong foundation in **Data Structures, Algorithms, and Advanced SQL**
-- Solving problems using **Python with focus on clean, idiomatic code**
-- Emphasis on **time & space complexity optimization**
-- Applying problem-solving skills to **real-world backend systems**
+- Strong foundation in Data Structures, Algorithms, and Advanced SQL  
+- Problem-solving using clean, idiomatic Python  
+- Focus on time and space complexity optimization  
+- Translating algorithmic thinking into real-world backend systems  
 
 ---
 
@@ -62,7 +61,7 @@ Focused on turning **complex AI systems into reliable, scalable production infra
 Python • JavaScript • SQL  
 
 **Backend**  
-FastAPI • Async APIs • REST Services • Redis • Background Workers  
+FastAPI • Async APIs • REST • Redis • Background Workers  
 
 **AI Systems**  
 RAG Pipelines • FAISS • ChromaDB • Embeddings  
@@ -78,7 +77,7 @@ Docker • Linux • AWS EC2 • Git
 
 ## Projects
 
-### EnterpriseRAG AI  
+### EnterpriseRAG AI
 Multi-tenant AI knowledge retrieval system.
 
 - Designed scalable RAG architecture  
@@ -89,7 +88,7 @@ Multi-tenant AI knowledge retrieval system.
 
 ---
 
-### OmniChat AI  
+### OmniChat AI
 LLM orchestration backend supporting multiple providers.
 
 - Provider abstraction layer  
@@ -99,7 +98,7 @@ LLM orchestration backend supporting multiple providers.
 
 ---
 
-### IntelliDocs AI  
+### IntelliDocs AI
 Semantic document intelligence platform.
 
 - Embedding-based retrieval system  
@@ -108,7 +107,7 @@ Semantic document intelligence platform.
 
 ---
 
-### WebInsight Automator  
+### WebInsight Automator
 Automated data extraction system for dynamic web platforms.
 
 - Selenium-based scraping engine  
@@ -120,13 +119,12 @@ Automated data extraction system for dynamic web platforms.
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devloperdevesh&show_icons=true&rank_icon=github" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devloperdevesh" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=devloperdevesh&show_icons=true&rank_icon=github" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devloperdevesh" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloperdevesh&layout=compact" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloperdevesh&layout=compact" />
 </p>
 
 ---
@@ -143,5 +141,5 @@ Open to working on:
 ---
 
 <p align="center">
-<strong>Building reliable infrastructure for intelligent systems.</strong>
+  <strong>Building reliable infrastructure for intelligent systems.</strong>
 </p>
