@@ -29,7 +29,7 @@ I design and build **production-grade backend architectures** powering modern AI
 - Distributed system architectures  
 - Scalable knowledge retrieval platforms  
 
-Focused on turning **complex AI ideas into reliable, scalable production systems**.
+Focused on turning **complex AI systems into reliable, scalable production infrastructure**.
 
 ---
 
@@ -43,11 +43,16 @@ Focused on turning **complex AI ideas into reliable, scalable production systems
 
 ---
 
-## Competitive Programming
+## Algorithmic Engineering Practice (DSA + SQL)
 
-- Active on LeetCode and Codeforces  
-- Strong problem-solving foundation  
-- Core strengths: Graphs • Dynamic Programming • Trees  
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/devloperdevesh?theme=dark&font=baloo" />
+</p>
+
+- Strong foundation in **Data Structures, Algorithms, and Advanced SQL**
+- Solving problems using **Python with focus on clean, idiomatic code**
+- Emphasis on **time & space complexity optimization**
+- Applying problem-solving skills to **real-world backend systems**
 
 ---
 
