@@ -17,7 +17,7 @@ Building scalable backend systems for AI applications, from RAG pipelines to pro
 
 ---
 
-## 🧠 About
+## About
 
 Backend engineer specializing in **AI infrastructure and distributed systems**.
 
@@ -33,7 +33,7 @@ Focused on turning **complex AI ideas into reliable, scalable production systems
 
 ---
 
-## ⚡ Engineering Focus
+## Engineering Focus
 
 - AI Infrastructure & LLM Systems  
 - Distributed Backend Architecture  
@@ -43,15 +43,15 @@ Focused on turning **complex AI ideas into reliable, scalable production systems
 
 ---
 
-## 🧠 Competitive Programming
+## Competitive Programming
 
-- Active on LeetCode & Codeforces  
+- Active on LeetCode and Codeforces  
 - Strong problem-solving foundation  
-- Core strengths: Graphs • Dynamic Programming • Trees • System-level thinking  
+- Core strengths: Graphs • Dynamic Programming • Trees  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**  
 Python • JavaScript • SQL  
@@ -71,20 +71,20 @@ Docker • Linux • AWS EC2 • Git
 
 ---
 
-## 🚀 Key Projects
+## Projects
 
-### 🧠 EnterpriseRAG AI  
+### EnterpriseRAG AI  
 Multi-tenant AI knowledge retrieval system.
 
 - Designed scalable RAG architecture  
 - Async FastAPI backend for low-latency responses  
 - Semantic document ingestion pipeline  
-- Vector similarity search using embeddings  
+- Vector similarity search  
 - Optimized retrieval for fast inference  
 
 ---
 
-### 🤖 OmniChat AI  
+### OmniChat AI  
 LLM orchestration backend supporting multiple providers.
 
 - Provider abstraction layer  
@@ -94,7 +94,7 @@ LLM orchestration backend supporting multiple providers.
 
 ---
 
-### 📄 IntelliDocs AI  
+### IntelliDocs AI  
 Semantic document intelligence platform.
 
 - Embedding-based retrieval system  
@@ -103,8 +103,8 @@ Semantic document intelligence platform.
 
 ---
 
-### 🌐 WebInsight Automator  
-Automated scraping system for dynamic web platforms.
+### WebInsight Automator  
+Automated data extraction system for dynamic web platforms.
 
 - Selenium-based scraping engine  
 - Async backend for task execution  
@@ -112,7 +112,7 @@ Automated scraping system for dynamic web platforms.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <p align="center">
 
@@ -126,9 +126,9 @@ Automated scraping system for dynamic web platforms.
 
 ---
 
-## 🤝 Collaboration
+## Collaboration
 
-Open to collaborating on:
+Open to working on:
 
 - AI infrastructure systems  
 - RAG-based platforms  
@@ -138,5 +138,5 @@ Open to collaborating on:
 ---
 
 <p align="center">
-<strong>Building the backend layer for intelligent systems.</strong>
+<strong>Building reliable infrastructure for intelligent systems.</strong>
 </p>
