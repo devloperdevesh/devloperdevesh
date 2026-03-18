@@ -1,4 +1,4 @@
-# Devesh Chauhan
+<h1 align="center">Devesh Chauhan</h1>
 
 <p align="center">
   <strong>AI Backend Engineer</strong><br/>
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Building production-grade backend systems for AI — focused on low-latency inference, scalable retrieval, and reliable LLM infrastructure.
+  Production-grade backend systems for AI applications — optimized for latency, throughput, and reliability.
 </p>
 
 <p align="center">
@@ -18,20 +18,18 @@
 
 ---
 
-## About
+## Professional Summary
 
-Backend engineer focused on building scalable AI systems that operate under real-world constraints — latency, concurrency, and reliability.
+Backend engineer specializing in **scalable AI infrastructure, LLM systems, and distributed backend architecture**. Experienced in designing systems that meet production constraints including **high concurrency, low latency, and cost efficiency**.
 
-* Processed 100K+ documents in RAG pipelines
-* Built systems handling 1K+ concurrent requests
-* Reduced latency by 40% using optimized retrieval and caching
-* Reduced LLM cost by 30% through efficient system design
-
-Specializing in LLM infrastructure, retrieval systems, and distributed backend architecture.
+* Engineered RAG pipelines processing **100K+ documents**
+* Built async systems handling **1K+ concurrent requests**
+* Achieved **40% latency reduction** via optimized retrieval and caching
+* Reduced inference cost by **30%** through system-level optimizations
 
 ---
 
-## Impact
+## Engineering Impact
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true" />
@@ -47,35 +45,37 @@ Specializing in LLM infrastructure, retrieval systems, and distributed backend a
 
 ---
 
-## What I Build
+## Core Expertise
 
-* Low-latency RAG systems serving 100K+ documents
-* Multi-provider LLM backends with failover and caching
-* Async backend systems handling high concurrency
-* Semantic search and embedding pipelines at scale
+* Low-latency backend system design
+* High-throughput async architectures
+* Retrieval-Augmented Generation (RAG)
+* LLM orchestration and multi-provider systems
+* Distributed caching and performance optimization
+* Scalable vector search and embedding pipelines
 
 ---
 
-## Tech Stack
+## Technical Stack
 
 ### Languages
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql" />
 </p>
 
-### Backend
+### Backend & Systems
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis" />
 </p>
 
-### AI Systems
+### AI & Retrieval
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/RAG-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FAISS-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ChromaDB-000?style=for-the-badge" />
@@ -83,16 +83,16 @@ Specializing in LLM infrastructure, retrieval systems, and distributed backend a
   <img src="https://img.shields.io/badge/HuggingFace-000?style=for-the-badge&logo=huggingface" />
 </p>
 
-### Data Systems
+### Data & Storage
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
   <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
 </p>
 
 ### Infrastructure
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws" />
@@ -100,36 +100,36 @@ Specializing in LLM infrastructure, retrieval systems, and distributed backend a
 
 ---
 
-## Selected Work
+## Selected Projects
 
 ### EnterpriseRAG AI
 
-* Built multi-tenant RAG system over 100K+ documents
-* Reduced latency by 40% using vector optimization and Redis caching
-* Designed async backend handling 1K+ concurrent requests
+* Multi-tenant retrieval system over **100K+ documents**
+* **40% latency reduction** using vector optimization and Redis caching
+* Async backend supporting **1K+ concurrent requests**
 
 ---
 
 ### OmniChat AI
 
 * Multi-provider LLM orchestration backend
-* Handled 500+ parallel inference requests
-* Reduced cost by 30% using caching strategies
+* Handled **500+ concurrent inference requests**
+* **30% cost reduction** via intelligent caching
 
 ---
 
 ### IntelliDocs AI
 
-* Semantic retrieval over 50K+ documents
-* Improved relevance by 35%
-* Reduced retrieval latency by 25%
+* Semantic retrieval across **50K+ documents**
+* **35% improvement** in response relevance
+* **25% faster retrieval** using optimized indexing
 
 ---
 
 ### WebInsight Automator
 
-* Processed 10K+ pages per day
-* Reduced execution time by 40%
+* Automated system processing **10K+ pages/day**
+* **40% execution time reduction** through async pipelines
 
 ---
 
@@ -139,20 +139,22 @@ Specializing in LLM infrastructure, retrieval systems, and distributed backend a
   <img src="https://leetcard.jacoblin.cool/devloperdevesh?theme=light" />
 </p>
 
-* Strong DSA and problem-solving foundation
-* Focus on efficient, scalable code
-* Applying algorithms to backend systems
+* Strong foundation in data structures and algorithms
+* Focus on performance, scalability, and clean abstractions
+* Applied algorithmic thinking to production backend systems
 
 ---
 
-## What I’m Looking For
+## Opportunities
 
-* AI Infrastructure Engineering roles
-* Backend and Distributed Systems roles
-* High-scale engineering teams
+Seeking roles in:
+
+* AI Infrastructure Engineering
+* Backend and Distributed Systems
+* High-scale production engineering environments
 
 ---
 
 <p align="center">
-  <strong>Focused on building reliable, scalable AI systems.</strong>
+  <strong>Building reliable, scalable systems for real-world AI applications.</strong>
 </p>
