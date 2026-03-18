@@ -1,8 +1,8 @@
-<h1 align="center">Devesh Chauhan</h1>
+# Devesh Chauhan
 
 <p align="center">
   <strong>AI Backend Engineer</strong><br/>
-  GenAI Infrastructure • Distributed Systems
+  GenAI Infrastructure • Distributed Systems • Low-Latency Systems
 </p>
 
 <p align="center">
@@ -20,29 +20,46 @@
 
 ## About
 
-I design and build **scalable AI backend systems** that handle real-world constraints — latency, concurrency, and retrieval efficiency.
+Backend engineer focused on building scalable AI systems that operate under real-world constraints — latency, concurrency, and reliability.
 
-My work focuses on:
+* Processed 100K+ documents in RAG pipelines
+* Built systems handling 1K+ concurrent requests
+* Reduced latency by 40% using optimized retrieval and caching
+* Reduced LLM cost by 30% through efficient system design
 
-- Architecting **RAG pipelines** for high-quality retrieval  
-- Building **LLM orchestration systems** across providers  
-- Designing **async, high-throughput APIs**  
-- Solving **system design problems at scale**  
+Specializing in LLM infrastructure, retrieval systems, and distributed backend architecture.
+
+---
+
+## Impact
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devloperdevesh&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloperdevesh&layout=compact&hide_border=true" />
+</p>
 
 ---
 
 ## What I Build
 
-- Low-latency RAG systems serving **100K+ documents**  
-- Multi-provider LLM backends with **failover and caching layers**  
-- Async backend systems handling **1K+ concurrent requests**  
-- Data pipelines for semantic search and embeddings at scale  
+* Low-latency RAG systems serving 100K+ documents
+* Multi-provider LLM backends with failover and caching
+* Async backend systems handling high concurrency
+* Semantic search and embedding pipelines at scale
 
 ---
 
 ## Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
@@ -50,12 +67,14 @@ My work focuses on:
 </p>
 
 ### Backend
+
 <p>
   <img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis" />
 </p>
 
 ### AI Systems
+
 <p>
   <img src="https://img.shields.io/badge/RAG-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FAISS-000?style=for-the-badge" />
@@ -65,12 +84,14 @@ My work focuses on:
 </p>
 
 ### Data Systems
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
   <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
 </p>
 
 ### Infrastructure
+
 <p>
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
@@ -83,66 +104,55 @@ My work focuses on:
 
 ### EnterpriseRAG AI
 
-Built a **multi-tenant RAG system** for scalable knowledge retrieval.
-
-- Indexed and processed **100K+ documents** for semantic search  
-- Reduced query latency by **40%** using optimized vector retrieval + Redis caching  
-- Designed async FastAPI backend handling **1K+ concurrent requests**  
-- Built ingestion pipelines for structured + unstructured enterprise data  
+* Built multi-tenant RAG system over 100K+ documents
+* Reduced latency by 40% using vector optimization and Redis caching
+* Designed async backend handling 1K+ concurrent requests
 
 ---
 
 ### OmniChat AI
 
-Developed a **production-grade LLM orchestration backend**.
-
-- Integrated multiple LLM providers with abstraction layer  
-- Handled **500+ parallel async inference requests**  
-- Reduced API cost by **30%** using intelligent response caching  
-- Built structured prompt pipelines for consistent outputs  
+* Multi-provider LLM orchestration backend
+* Handled 500+ parallel inference requests
+* Reduced cost by 30% using caching strategies
 
 ---
 
 ### IntelliDocs AI
 
-Created a **semantic document intelligence system**.
-
-- Implemented embedding-based retrieval across **50K+ documents**  
-- Improved response relevance by **35%** via optimized chunking strategies  
-- Reduced retrieval time by **25%** using efficient vector indexing  
+* Semantic retrieval over 50K+ documents
+* Improved relevance by 35%
+* Reduced retrieval latency by 25%
 
 ---
 
 ### WebInsight Automator
 
-Engineered an **automated data extraction platform**.
-
-- Built scalable scraping system processing **10K+ pages/day**  
-- Designed async execution system reducing task time by **40%**  
-- Automated structured data pipelines for downstream analytics  
+* Processed 10K+ pages per day
+* Reduced execution time by 40%
 
 ---
 
 ## Algorithmic Foundation
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/devloperdevesh?theme=dark&font=baloo" />
+  <img src="https://leetcard.jacoblin.cool/devloperdevesh?theme=light" />
 </p>
 
-- Strong foundation in DSA and problem-solving  
-- Focus on writing efficient, scalable code  
-- Applying algorithmic thinking to backend system design  
+* Strong DSA and problem-solving foundation
+* Focus on efficient, scalable code
+* Applying algorithms to backend systems
 
 ---
 
 ## What I’m Looking For
 
-- AI Infrastructure Engineering roles  
-- Backend roles focused on scale and distributed systems  
-- Opportunities to build real-world intelligent systems  
+* AI Infrastructure Engineering roles
+* Backend and Distributed Systems roles
+* High-scale engineering teams
 
 ---
 
 <p align="center">
-  <strong>Focused on building systems that make AI reliable at scale.</strong>
+  <strong>Focused on building reliable, scalable AI systems.</strong>
 </p>
