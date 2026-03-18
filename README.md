@@ -57,21 +57,43 @@ Designing and building **production-grade backend architectures** for modern AI 
 
 ## Tech Stack
 
-**Languages**  
-Python • JavaScript • SQL  
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql" />
+</p>
 
-**Backend**  
-FastAPI • Async APIs • REST • Redis • Background Workers  
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/REST-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Async-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis" />
+</p>
 
-**AI Systems**  
-RAG Pipelines • FAISS • ChromaDB • Embeddings  
-OpenAI APIs • HuggingFace Transformers  
+### AI Systems
+<p>
+  <img src="https://img.shields.io/badge/RAG-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/HuggingFace-000?style=for-the-badge&logo=huggingface" />
+</p>
 
-**Data Systems**  
-PostgreSQL • MongoDB  
+### Data Systems
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
+</p>
 
-**Infrastructure**  
-Docker • Linux • AWS EC2 • Git  
+### Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+</p>
 
 ---
 
@@ -81,38 +103,37 @@ Docker • Linux • AWS EC2 • Git
 Multi-tenant AI knowledge retrieval system.
 
 - Designed scalable RAG architecture  
-- Async FastAPI backend for low-latency responses  
-- Semantic document ingestion pipeline  
-- Vector similarity search  
-- Optimized retrieval for fast inference  
+- Built async FastAPI backend for low-latency responses  
+- Implemented semantic document ingestion pipeline  
+- Optimized vector similarity search for fast inference  
 
 ---
 
 ### OmniChat AI
 LLM orchestration backend supporting multiple providers.
 
-- Provider abstraction layer  
-- Concurrent async request handling  
-- Structured prompting pipelines  
-- Response caching system  
+- Designed provider abstraction layer  
+- Implemented concurrent async request handling  
+- Built structured prompting pipelines  
+- Added response caching for performance optimization  
 
 ---
 
 ### IntelliDocs AI
 Semantic document intelligence platform.
 
-- Embedding-based retrieval system  
-- Vector similarity search  
-- Context-aware response generation  
+- Developed embedding-based retrieval system  
+- Implemented vector similarity search  
+- Enabled context-aware response generation  
 
 ---
 
 ### WebInsight Automator
 Automated data extraction system for dynamic web platforms.
 
-- Selenium-based scraping engine  
-- Async backend for task execution  
-- Automated data pipelines  
+- Built Selenium-based scraping engine  
+- Designed async backend for task execution  
+- Developed automated data pipelines  
 
 ---
 
