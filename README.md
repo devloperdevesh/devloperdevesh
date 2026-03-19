@@ -87,8 +87,10 @@ Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,redis,nodejs" />
 </p>
+
 ### AI & Retrieval
-<p>
+<p style="display:flex; gap:10px; flex-wrap:wrap;">
+  
   <!-- FAISS -->
   <span style="display:inline-flex; align-items:center; justify-content:center; width:48px; height:48px; background:#0d1117; border-radius:12px;">
     <img src="https://github.com/facebookresearch.png" height="28" title="FAISS"/>
@@ -108,6 +110,7 @@ Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
   <span style="display:inline-flex; align-items:center; justify-content:center; width:48px; height:48px; background:#0d1117; border-radius:12px;">
     <img src="https://github.com/openai.png" height="28" title="RAG"/>
   </span>
+
 </p>
 
 ### Data
