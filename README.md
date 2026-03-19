@@ -90,13 +90,17 @@ Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
 
 ### AI & Retrieval
 <p>
-  <img src="https://skillicons.dev/icons?i=ai" />
-  <img src="https://skillicons.dev/icons?i=python" title="FAISS / Embeddings" />
-  <img src="https://skillicons.dev/icons?i=sqlite" title="ChromaDB / Vector DB" />
-</p>
+  <!-- FAISS (Meta AI) -->
+  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/static/logo.png" height="48" title="FAISS"/>
 
-<p align="center">
-  <sub>FAISS • ChromaDB • Vector Search • RAG</sub>
+  <!-- ChromaDB -->
+  <img src="https://avatars.githubusercontent.com/u/106216780?s=200&v=4" height="48" title="ChromaDB"/>
+
+  <!-- Vector DB (Weaviate - popular vector DB) -->
+  <img src="https://avatars.githubusercontent.com/u/37722111?s=200&v=4" height="48" title="Vector DB (Weaviate)"/>
+
+  <!-- RAG / LLM (OpenAI official) -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="48" title="RAG / LLM"/>
 </p>
 
 ### Data
