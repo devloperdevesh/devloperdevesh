@@ -81,24 +81,26 @@ Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js" />
-  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### Backend & Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,redis,nodejs" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 ### AI & Retrieval
 <p>
-  <img src="https://skillicons.dev/icons?i=ai" />
-  <img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge&logo=ai" />
-  <img src="https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector_DB-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-0066cc?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector_DB-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge"/>
 </p>
-
 ### Data
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
