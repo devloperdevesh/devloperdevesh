@@ -90,17 +90,13 @@ Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
 
 ### AI & Retrieval
 <p>
-  <!-- AI -->
   <img src="https://skillicons.dev/icons?i=ai" />
+  <img src="https://skillicons.dev/icons?i=python" title="FAISS / Embeddings" />
+  <img src="https://skillicons.dev/icons?i=sqlite" title="ChromaDB / Vector DB" />
+</p>
 
-  <!-- Vector DB / Embeddings (use Python + DB combo) -->
-  <img src="https://skillicons.dev/icons?i=sqlite" title="Vector DB / ChromaDB" />
-
-  <!-- Backend AI infra -->
-  <img src="https://skillicons.dev/icons?i=fastapi" title="RAG APIs" />
-
-  <!-- Redis (retrieval + caching) -->
-  <img src="https://skillicons.dev/icons?i=redis" title="Caching / Retrieval" />
+<p align="center">
+  <sub>FAISS • ChromaDB • Vector Search • RAG</sub>
 </p>
 
 ### Data
