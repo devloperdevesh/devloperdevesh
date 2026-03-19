@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3200&pause=1200&color=000000&center=true&vCenter=true&width=520&lines=RAG+Pipelines+at+Scale;Async+Systems+%281K%2B+Concurrent%29;Performance+Optimized+AI+Infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=RAG+Pipelines+at+Scale;Async+Systems+%281K%2B+Concurrent%29;Performance+Optimized+AI+Infrastructure" />
 </p>
 
 <p align="center">
-  100K+ Documents • 1K+ Concurrent Requests • 40% Latency ↓ • 30% Cost ↓
+  <strong>100K+ Documents</strong> • <strong>1K+ Concurrent Requests</strong> • <strong>40% Latency ↓</strong> • <strong>30% Cost ↓</strong>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 Backend engineer specializing in **scalable AI infrastructure, LLM systems, and distributed architectures**.
 
-I build systems that operate under real-world constraints — **high concurrency, low latency, and cost-efficient inference** — focusing on reliability, performance, and measurable impact.
+I design and build systems that operate under real-world constraints — **high concurrency, low latency, and cost-efficient inference** — with a strong focus on reliability, performance, and measurable impact.
 
 ---
 
@@ -114,5 +114,5 @@ Strong foundation in data structures and algorithms with a focus on performance,
 ---
 
 <p align="center">
-  Building systems that scale — not demos.
+  <strong>Building systems that scale — not demos.</strong>
 </p>
