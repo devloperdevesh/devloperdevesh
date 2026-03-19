@@ -93,17 +93,14 @@ Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
   <!-- AI -->
   <img src="https://skillicons.dev/icons?i=ai" />
 
-  <!-- Vector DB (Pinecone SVG - stable) -->
-  <img src="https://cdn.simpleicons.org/pinecone" height="48" title="Vector DB (Pinecone)" />
+  <!-- Vector DB / Embeddings (use Python + DB combo) -->
+  <img src="https://skillicons.dev/icons?i=sqlite" title="Vector DB / ChromaDB" />
 
-  <!-- ChromaDB (use database icon clean) -->
-  <img src="https://skillicons.dev/icons?i=sqlite" title="ChromaDB" />
+  <!-- Backend AI infra -->
+  <img src="https://skillicons.dev/icons?i=fastapi" title="RAG APIs" />
 
-  <!-- FAISS (Meta - FIXED working) -->
-  <img src="https://cdn.simpleicons.org/meta" height="48" title="FAISS (Meta)" />
-
-  <!-- RAG / LLM (OpenAI - FIXED working) -->
-  <img src="https://cdn.simpleicons.org/openai" height="48" title="RAG / LLM" />
+  <!-- Redis (retrieval + caching) -->
+  <img src="https://skillicons.dev/icons?i=redis" title="Caching / Retrieval" />
 </p>
 
 ### Data
