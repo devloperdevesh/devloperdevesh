@@ -29,7 +29,7 @@
 
 Backend engineer specializing in **scalable AI infrastructure, LLM systems, and distributed architectures**.
 
-I design and build systems that operate under real-world constraints — **high concurrency, low latency, and cost-efficient inference** — with a strong focus on reliability, performance, and measurable impact.
+I build systems that operate under real-world constraints — **high concurrency, low latency, and cost-efficient inference** — focusing on reliability, performance, and measurable impact.
 
 ---
 
@@ -71,20 +71,33 @@ Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
 
 ## Stack
 
-**Languages**  
-Python • JavaScript • SQL  
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,postgres" />
+</p>
 
-**Backend & Systems**  
-FastAPI • Redis  
+### Backend & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,redis" />
+</p>
 
-**AI & Retrieval**  
-RAG • FAISS • ChromaDB • OpenAI • HuggingFace  
+### AI & Retrieval
+<p>
+  <img src="https://skillicons.dev/icons?i=ai" />
+  <img src="https://img.shields.io/badge/RAG-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/FAISS-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/ChromaDB-000?style=flat-square" />
+</p>
 
-**Data**  
-PostgreSQL • MongoDB  
+### Data
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
 
-**Infrastructure**  
-Docker • Linux • AWS  
+### Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,aws" />
+</p>
 
 ---
 
