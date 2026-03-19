@@ -90,11 +90,20 @@ Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
 
 ### AI & Retrieval
 <p>
+  <!-- Main Icons -->
   <img src="https://skillicons.dev/icons?i=ai,sqlite" />
-  <img src="https://img.shields.io/badge/FAISS-111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ChromaDB-111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Vector_DB-111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAG-111?style=flat-square"/>
+
+  <!-- FAISS -->
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="48" title="FAISS (by Meta)" />
+
+  <!-- ChromaDB -->
+  <img src="https://avatars.githubusercontent.com/u/106216780?s=200&v=4" height="48" title="ChromaDB" />
+
+  <!-- Vector DB -->
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="48" title="Vector Database" />
+
+  <!-- RAG -->
+  <img src="https://cdn.simpleicons.org/openai/000000" height="48" title="RAG / LLM" />
 </p>
 
 ### Data
