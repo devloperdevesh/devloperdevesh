@@ -17,10 +17,18 @@
 </p>
 
 <p align="center">
-  <a href="https://developerdevesh.vercel.app">Portfolio</a> ·
-  <a href="https://linkedin.com/in/devesh-chauhan-6b5691308">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/devloperdevesh">LeetCode</a> ·
-  <a href="https://codeforces.com/profile/deveshchauhan00001">Codeforces</a>
+  <a href="https://developerdevesh.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/devesh-chauhan-6b5691308">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/devloperdevesh">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://codeforces.com/profile/deveshchauhan00001">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -78,15 +86,16 @@ Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
 
 ### Backend & Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,redis" />
+  <img src="https://skillicons.dev/icons?i=fastapi,redis,nodejs" />
 </p>
 
 ### AI & Retrieval
 <p>
   <img src="https://skillicons.dev/icons?i=ai" />
-  <img src="https://img.shields.io/badge/RAG-000?style=flat-square" />
-  <img src="https://img.shields.io/badge/FAISS-000?style=flat-square" />
-  <img src="https://img.shields.io/badge/ChromaDB-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/FAISS-000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ChromaDB-000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Vector_DB-000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-000?style=flat-square"/>
 </p>
 
 ### Data
@@ -116,6 +125,20 @@ Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloperdevesh&layout=compact&hide_border=true" height="150"/>
+</p>
+
+---
+
+## Competitive Programming
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/devloperdevesh?theme=light&ext=contest" height="180"/>
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/deveshchauhan00001">
+    <img src="https://img.shields.io/badge/Codeforces_Profile-View-1F8ACB?style=flat-square"/>
+  </a>
 </p>
 
 ---
