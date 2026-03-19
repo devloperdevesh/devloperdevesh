@@ -92,10 +92,10 @@ Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
 ### AI & Retrieval
 <p>
   <img src="https://skillicons.dev/icons?i=ai" />
-  <img src="https://img.shields.io/badge/FAISS-000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ChromaDB-000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Vector_DB-000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAG-000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge&logo=ai" />
+  <img src="https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_DB-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-green?style=for-the-badge" />
 </p>
 
 ### Data
