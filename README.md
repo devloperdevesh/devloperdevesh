@@ -10,18 +10,23 @@
 </p>
 
 <p align="center">
+  
   <a href="https://developerdevesh.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  
   <a href="https://linkedin.com/in/devesh-chauhan-6b5691308">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="https://leetcode.com/u/devloperdevesh">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  
   <a href="https://codeforces.com/profile/deveshchauhan00001">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
+  
 </p>
 
 ## Professional Summary
