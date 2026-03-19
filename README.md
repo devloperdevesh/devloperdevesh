@@ -90,9 +90,13 @@ Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
 
 ### AI & Retrieval
 <p>
-  <img src="https://skillicons.dev/icons?i=ai" />
-  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=ai,sqlite" />
+  <img src="https://img.shields.io/badge/FAISS-111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ChromaDB-111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Vector_DB-111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-111?style=flat-square"/>
 </p>
+
 ### Data
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
