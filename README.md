@@ -91,16 +91,24 @@ Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
 ### AI & Retrieval
 <p>
   <!-- FAISS -->
-  <img src="https://github.com/facebookresearch.png" height="48" style="border-radius:8px; margin-right:6px;" title="FAISS (Meta)"/>
+  <span style="display:inline-block; background:#0d1117; padding:6px; border-radius:10px;">
+    <img src="https://github.com/facebookresearch.png" height="36" title="FAISS"/>
+  </span>
 
   <!-- ChromaDB -->
-  <img src="https://github.com/chroma-core.png" height="48" style="border-radius:8px; margin-right:6px;" title="ChromaDB"/>
+  <span style="display:inline-block; background:#0d1117; padding:6px; border-radius:10px;">
+    <img src="https://github.com/chroma-core.png" height="36" title="ChromaDB"/>
+  </span>
 
   <!-- Vector DB -->
-  <img src="https://github.com/weaviate.png" height="48" style="border-radius:8px; margin-right:6px;" title="Vector Database"/>
+  <span style="display:inline-block; background:#0d1117; padding:6px; border-radius:10px;">
+    <img src="https://github.com/weaviate.png" height="36" title="Vector DB"/>
+  </span>
 
   <!-- RAG / LLM -->
-  <img src="https://github.com/openai.png" height="48" style="border-radius:8px;" title="RAG / LLM"/>
+  <span style="display:inline-block; background:#0d1117; padding:6px; border-radius:10px;">
+    <img src="https://github.com/openai.png" height="36" title="RAG"/>
+  </span>
 </p>
 
 
