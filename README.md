@@ -89,22 +89,21 @@ Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
 </p>
 
 ### AI & Retrieval
-### AI & Retrieval
 <p>
-  <!-- AI / LLM -->
+  <!-- AI -->
   <img src="https://skillicons.dev/icons?i=ai" />
 
-  <!-- Vector DB (use Pinecone = industry standard) -->
-  <img src="https://cdn.simpleicons.org/pinecone/000000" height="48" title="Vector DB (Pinecone)" />
+  <!-- Vector DB (Pinecone SVG - stable) -->
+  <img src="https://cdn.simpleicons.org/pinecone" height="48" title="Vector DB (Pinecone)" />
 
-  <!-- Chroma (fallback clean db icon) -->
-  <img src="https://skillicons.dev/icons?i=sqlite" title="ChromaDB / Local Vector DB" />
+  <!-- ChromaDB (use database icon clean) -->
+  <img src="https://skillicons.dev/icons?i=sqlite" title="ChromaDB" />
 
-  <!-- FAISS (no official logo → use Meta AI) -->
-  <img src="https://cdn.simpleicons.org/meta/0467DF" height="48" title="FAISS (Meta AI)" />
+  <!-- FAISS (Meta - FIXED working) -->
+  <img src="https://cdn.simpleicons.org/meta" height="48" title="FAISS (Meta)" />
 
-  <!-- RAG (concept → use OpenAI / LLM infra) -->
-  <img src="https://cdn.simpleicons.org/openai/000000" height="48" title="RAG Systems" />
+  <!-- RAG / LLM (OpenAI - FIXED working) -->
+  <img src="https://cdn.simpleicons.org/openai" height="48" title="RAG / LLM" />
 </p>
 
 ### Data
