@@ -81,7 +81,8 @@ Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,js" />
+  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### Backend & Systems
