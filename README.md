@@ -87,30 +87,28 @@ Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,redis,nodejs" />
 </p>
-
 ### AI & Retrieval
 <p>
   <!-- FAISS -->
-  <span style="display:inline-block; background:#0d1117; padding:6px; border-radius:10px;">
-    <img src="https://github.com/facebookresearch.png" height="36" title="FAISS"/>
+  <span style="display:inline-flex; align-items:center; justify-content:center; width:48px; height:48px; background:#0d1117; border-radius:12px;">
+    <img src="https://github.com/facebookresearch.png" height="28" title="FAISS"/>
   </span>
 
   <!-- ChromaDB -->
-  <span style="display:inline-block; background:#0d1117; padding:6px; border-radius:10px;">
-    <img src="https://github.com/chroma-core.png" height="36" title="ChromaDB"/>
+  <span style="display:inline-flex; align-items:center; justify-content:center; width:48px; height:48px; background:#0d1117; border-radius:12px;">
+    <img src="https://github.com/chroma-core.png" height="28" title="ChromaDB"/>
   </span>
 
   <!-- Vector DB -->
-  <span style="display:inline-block; background:#0d1117; padding:6px; border-radius:10px;">
-    <img src="https://github.com/weaviate.png" height="36" title="Vector DB"/>
+  <span style="display:inline-flex; align-items:center; justify-content:center; width:48px; height:48px; background:#0d1117; border-radius:12px;">
+    <img src="https://github.com/weaviate.png" height="28" title="Vector DB"/>
   </span>
 
-  <!-- RAG / LLM -->
-  <span style="display:inline-block; background:#0d1117; padding:6px; border-radius:10px;">
-    <img src="https://github.com/openai.png" height="36" title="RAG"/>
+  <!-- RAG -->
+  <span style="display:inline-flex; align-items:center; justify-content:center; width:48px; height:48px; background:#0d1117; border-radius:12px;">
+    <img src="https://github.com/openai.png" height="28" title="RAG"/>
   </span>
 </p>
-
 
 ### Data
 <p>
