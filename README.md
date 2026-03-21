@@ -1,13 +1,14 @@
 <h1 align="center">Devesh Chauhan</h1>
+
 <div align="center">
 
-  <img src="YOUR_IMAGE_URL"
-       width="180"
-       height="180"
-       style="border-radius:50%; object-fit:cover;"/>
+  <img src="https://deveshchauhan-portfolio.netlify.app/images/devu.jpg"
+       width="170"
+       height="170"
+       style="border-radius:50%; object-fit:cover; border: 2px solid #58A6FF; box-shadow: 0 0 15px rgba(88,166,255,0.4);" />
 
-  <h3>Devesh Chauhan</h3>
-  <p>AI Backend Engineer</p>
+  <h3 style="margin-top:10px;">Devesh Chauhan</h3>
+  <p style="margin-top:-5px;">AI Backend Engineer</p>
 
 </div>
 
@@ -18,7 +19,6 @@
 <p align="center">
   Building low-latency, high-throughput AI systems at production scale
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=RAG+Pipelines+at+Scale;Async+Systems+%281K%2B+Concurrent%29;Performance+Optimized+AI+Infrastructure" />
 </p>
