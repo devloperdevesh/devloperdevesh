@@ -148,10 +148,6 @@ Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
   <img src="https://leetcard.jacoblin.cool/devloperdevesh?theme=light&ext=contest" height="180"/>
 </p>
 
-<p align="center">
-  <a href="https://codeforces.com/profile/deveshchauhan00001">
-    <img src="https://img.shields.io/badge/Codeforces_Profile-View-1F8ACB?style=flat-square"/>
-  </a>
 </p>
 
 ---
