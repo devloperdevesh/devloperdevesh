@@ -1,15 +1,12 @@
-<h1 align="center">Devesh Chauhan</h1>
+
 
 <div align="center">
 
   <img src="https://deveshchauhan-portfolio.netlify.app/images/devu.jpg"
-       width="170"
-       height="170"
-       style="border-radius:50%; object-fit:cover; border: 2px solid #58A6FF; box-shadow: 0 0 15px rgba(88,166,255,0.4);" />
-
-  <h3 style="margin-top:10px;">Devesh Chauhan</h3>
-  <p style="margin-top:-5px;">AI Backend Engineer</p>
-
+       width="160"
+       height="160"
+       style="border-radius:50%; object-fit:cover; border: 3px solid #58A6FF;" />
+       <h1 align="center">Devesh Chauhan</h1>
 </div>
 
 <p align="center">
