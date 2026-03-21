@@ -1,4 +1,15 @@
 <h1 align="center">Devesh Chauhan</h1>
+<div align="center">
+
+  <img src="YOUR_IMAGE_URL"
+       width="180"
+       height="180"
+       style="border-radius:50%; object-fit:cover;"/>
+
+  <h3>Devesh Chauhan</h3>
+  <p>AI Backend Engineer</p>
+
+</div>
 
 <p align="center">
   AI Backend Engineer — Distributed Systems & LLM Infrastructure
