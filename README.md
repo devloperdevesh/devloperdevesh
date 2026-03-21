@@ -1,13 +1,4 @@
-
-
-<div align="center">
-
-  <img src="https://deveshchauhan-portfolio.netlify.app/images/devu.jpg"
-       width="160"
-       height="160"
-       style="border-radius:50%; object-fit:cover; border: 3px solid #58A6FF;" />
-       <h1 align="center">Devesh Chauhan</h1>
-</div>
+<h1 align="center">Devesh Chauhan</h1>
 
 <p align="center">
   AI Backend Engineer — Distributed Systems & LLM Infrastructure
@@ -16,10 +7,10 @@
 <p align="center">
   Building low-latency, high-throughput AI systems at production scale
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=RAG+Pipelines+at+Scale;Async+Systems+%281K%2B+Concurrent%29;Performance+Optimized+AI+Infrastructure" />
 </p>
-
 <p align="center">
   <strong>100K+ Documents</strong> • <strong>1K+ Concurrent Requests</strong> • <strong>40% Latency ↓</strong> • <strong>30% Cost ↓</strong>
 </p>
