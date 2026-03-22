@@ -29,13 +29,15 @@ Building systems handling <strong>1K+ concurrent users</strong> and <strong>100K
 ## Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devloperdevesh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=devloperdevesh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=devloperdevesh&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloperdevesh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloperdevesh&layout=compact&hide_border=true" height="160"/>
 </p>
+
+---
 
 ## What I Build
 
@@ -48,28 +50,28 @@ Building systems handling <strong>1K+ concurrent users</strong> and <strong>100K
 
 ## Flagship System — Distributed AI Backend
 
-Production-grade AI backend designed for real-world scale.
+Production-grade backend system designed for high-concurrency AI workloads.
 
 **Scale**
-- 100K+ documents
-- 1K+ concurrent users
+- 100K+ documents processed  
+- 1K+ concurrent requests  
 
 **Architecture**
-- FastAPI (async services)
-- Redis (distributed caching)
-- FAISS (vector search)
-- Multi-LLM routing
+- Async FastAPI services  
+- Redis distributed caching  
+- FAISS vector search  
+- Multi-LLM routing layer  
 
-**Key Decisions**
+**Engineering Decisions**
 - Stateless services for horizontal scaling  
-- Async request handling to remove blocking  
-- Caching layer to reduce repeated inference  
-- Vector index optimization for faster retrieval  
+- Non-blocking async pipelines for throughput  
+- Cache-first design to reduce inference load  
+- Optimized vector indexing for fast retrieval  
 
 **Impact**
-- Reduced latency by 40% (p95)  
-- Reduced inference cost by 30%  
-- Stable performance under high concurrency  
+- p95 latency reduced by 40%  
+- Inference cost reduced by 30%  
+- Stable under sustained concurrent load  
 
 ---
 
