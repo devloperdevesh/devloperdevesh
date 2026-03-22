@@ -29,13 +29,12 @@ Building systems handling <strong>1K+ concurrent users</strong> and <strong>100K
 ## Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devloperdevesh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" height="150"/>
-  
-  <img src="https://streak-stats.demolab.com/?user=devloperdevesh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devloperdevesh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=devloperdevesh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloperdevesh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloperdevesh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" height="160"/>
 </p>
 
 ## What I Build
