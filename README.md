@@ -47,6 +47,13 @@ I build systems that operate under real-world constraints — **high concurrency
 
 ---
 
+## Open Source Contributions
+
+- Contributing to OpenVINO (FastAPI-based inference systems)
+- Built and extended REST inference examples using OpenVINO Runtime
+- Focused on async APIs, batching, and production-ready AI inference
+ ---
+
 ## Systems
 
 ### High-Throughput RAG Platform
@@ -60,6 +67,17 @@ Embedding-based retrieval system with improved relevance and optimized indexing 
 
 ### Async Web Processing Pipeline
 Distributed pipeline processing **10K+ pages/day** with non-blocking execution.
+
+---
+
+### OpenVINO FastAPI Inference (Open Source Contribution)
+
+Extended OpenVINO's FastAPI example with:
+- async request handling
+- batching support
+- inference logging
+
+Working towards production-ready inference APIs for real-world deployment.
 
 ---
 
