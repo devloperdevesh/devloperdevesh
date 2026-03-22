@@ -50,18 +50,23 @@ I build systems that operate under real-world constraints — **high concurrency
 
 - Contributing to OpenVINO (FastAPI-based inference systems)
 - Extended REST inference example using OpenVINO Runtime
-- Added async handling, batching, and logging for production-like usage
+- Added async handling, batching, and logging
+
+PR: https://github.com/devloperdevesh/openvino/pull/XXXXX  
+Discussion: https://github.com/openvinotoolkit/openvino/issues/33970#issuecomment-4097819985  
+Analysis: https://github.com/langchain-ai/langchain/issues/35574#issuecomment-4087992303  
 
 ---
 
-### OpenVINO FastAPI Inference (Open Source)
+### OpenVINO FastAPI Inference
 
-Extended OpenVINO's FastAPI example with:
-- async request handling
-- batching support
-- inference logging
+Extended the FastAPI inference example with:
 
-➡️ Focus: production-ready inference APIs for real-world deployment
+- async request handling  
+- batching support  
+- inference logging  
+
+Focus: improving usability and moving towards production-ready inference APIs
 
 ## Systems
 
