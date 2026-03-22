@@ -52,10 +52,6 @@ I build systems that operate under real-world constraints — **high concurrency
 - Extended REST inference example using OpenVINO Runtime
 - Added async handling, batching, and logging
 
-PR: https://github.com/devloperdevesh/openvino/pull/XXXXX  
-Discussion: https://github.com/openvinotoolkit/openvino/issues/33970#issuecomment-4097819985  
-Analysis: https://github.com/langchain-ai/langchain/issues/35574#issuecomment-4087992303  
-
 ---
 
 ### OpenVINO FastAPI Inference
