@@ -33,10 +33,6 @@ Building systems handling <strong>1K+ concurrent users</strong> and <strong>100K
   <img src="https://streak-stats.demolab.com/?user=devloperdevesh&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloperdevesh&layout=compact&hide_border=true" height="160"/>
-</p>
-
 ---
 
 ## What I Build
