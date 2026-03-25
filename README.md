@@ -1,15 +1,16 @@
-<h1 align="center">Devesh Chauhan</h1>
+# <h1 align="center">Devesh Chauhan</h1>
 
 <p align="center">
-AI Backend Engineer — Distributed Systems & LLM Infrastructure
+  <strong>AI Backend Engineer • Distributed Systems • LLM Infrastructure</strong>
 </p>
 
 <p align="center">
-Building systems handling <strong>1K+ concurrent users</strong> and <strong>100K+ documents</strong> with optimized latency and cost
+  Building production-grade AI systems handling real-world scale, latency, and concurrency
 </p>
 
 <p align="center">
-<strong>Latency ↓ 40%</strong> • <strong>Cost ↓ 30%</strong>
+  <strong>1K+ concurrent users</strong> • <strong>100K+ documents</strong><br/>
+  <strong>Latency ↓ 40%</strong> • <strong>Cost ↓ 30%</strong>
 </p>
 
 <p align="center">
@@ -26,48 +27,58 @@ Building systems handling <strong>1K+ concurrent users</strong> and <strong>100K
 
 ---
 
-## Engineering Activity
+## About
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=devloperdevesh&hide_border=true" height="160"/>
-</p>
+I am a backend engineer focused on building scalable AI infrastructure and distributed systems.
+
+I specialize in:
+
+* High-concurrency backend systems
+* Retrieval-Augmented Generation (RAG) pipelines
+* Low-latency inference optimization
+* Production-grade LLM infrastructure
+
+I design systems that are scalable, fault-tolerant, and efficient under real-world load.
+
+Proven through real systems:
+
+* 100K+ documents processed
+* 1K+ concurrent requests handled
+* 40% latency reduction
+* 30% cost optimization
 
 ---
 
-## What I Build
+## Key Work
 
-- High-throughput RAG systems (100K+ documents)
-- Async backend systems (1K+ concurrency)
-- Multi-LLM orchestration backends
-- Distributed caching and low-latency inference systems
+### Distributed AI Backend System
 
----
-
-## Flagship System — Distributed AI Backend
-
-Production-grade backend system designed for high-concurrency AI workloads.
+A production-grade backend architecture for scalable AI workloads.
 
 **Scale**
-- 100K+ documents processed  
-- 1K+ concurrent requests  
+
+* 100K+ documents indexed
+* 1K+ concurrent users
 
 **Architecture**
-- Async FastAPI services  
-- Redis distributed caching  
-- FAISS vector search  
-- Multi-LLM routing layer  
 
-**Engineering Decisions**
-- Stateless services for horizontal scaling  
-- Non-blocking async pipelines for throughput  
-- Cache-first design to reduce inference load  
-- Optimized vector indexing for fast retrieval  
+* Async FastAPI services
+* Redis distributed caching
+* FAISS vector retrieval
+* Multi-LLM orchestration layer
+
+**Key Engineering Decisions**
+
+* Stateless services for horizontal scaling
+* Async pipelines for non-blocking performance
+* Cache-first design to reduce inference cost
+* Optimized vector search for faster retrieval
 
 **Impact**
-- p95 latency reduced by 40%  
-- Inference cost reduced by 30%  
-- Stable under sustained concurrent load  
+
+* p95 latency reduced by 40%
+* inference cost reduced by 30%
+* stable under sustained concurrency
 
 ---
 
@@ -81,3 +92,90 @@ graph TD
     Workers --> VectorDB[FAISS Index]
     VectorDB --> LLM[LLM Providers]
     LLM --> Response
+```
+
+---
+
+## Technical Strength
+
+### Backend and Distributed Systems
+
+* Python, FastAPI, Node.js
+* Async system design and concurrency handling
+* Stateless microservice architecture
+
+### AI Systems
+
+* Retrieval-Augmented Generation (RAG)
+* OpenAI, HuggingFace, multi-LLM routing
+* Local LLM inference (Ollama)
+
+### Data and Retrieval
+
+* FAISS, ChromaDB (vector search)
+* PostgreSQL, MongoDB
+* Embedding pipelines and semantic search
+
+### Infrastructure
+
+* Dockerized deployments
+* AWS (EC2, S3)
+* CI/CD workflows
+
+---
+
+## Selected Projects
+
+### EnterpriseRAG AI
+
+Multi-tenant RAG system handling 100K+ documents with low-latency retrieval
+
+### AI Research Copilot
+
+Citation-aware AI system improving response accuracy by 35%
+
+### OmniChat AI
+
+Multi-LLM backend handling 500+ parallel requests, reducing cost by 30%
+
+### IntelliDocs AI
+
+Semantic document intelligence system across large datasets
+
+### WebInsight Automator
+
+Async pipeline processing 10K+ pages per day
+
+---
+
+## Engineering Mindset
+
+* Systems over syntax
+* Performance-first design
+* Build, measure, optimize
+* Real-world scalability focus
+* Clean and modular architecture
+
+---
+
+## Why Me
+
+* Built real systems at scale, not just academic projects
+* Strong foundation in data structures and system design
+* Experience with production AI infrastructure
+* Proven ability to optimize performance and cost
+* Consistent engineering discipline
+
+---
+
+## Contact
+
+* Portfolio: [https://developerdevesh.vercel.app](https://developerdevesh.vercel.app)
+* LinkedIn: [https://linkedin.com/in/devesh-chauhan-6b5691308](https://linkedin.com/in/devesh-chauhan-6b5691308)
+* LeetCode: [https://leetcode.com/u/devloperdevesh](https://leetcode.com/u/devloperdevesh)
+
+---
+
+## Final Statement
+
+I focus on building scalable AI systems that work in production, optimized for performance, reliability, and real-world impact.
