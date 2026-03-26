@@ -19,9 +19,6 @@ Building systems handling <strong>1K+ concurrent users</strong> and <strong>100K
   <a href="https://linkedin.com/in/devesh-chauhan-6b5691308">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/devloperdevesh">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
 </p>
 
 ---
