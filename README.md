@@ -71,6 +71,12 @@ Production-grade backend system designed for high-concurrency AI workloads.
 
 ---
 
+## Open Source Contributions
+
+- Contributing to OpenVINO (FastAPI-based inference systems)
+- Extended inference examples with async handling, batching, and logging
+
+---
 ## System Architecture
 
 ```mermaid
@@ -81,3 +87,5 @@ graph TD
     Workers --> VectorDB[FAISS Index]
     VectorDB --> LLM[LLM Providers]
     LLM --> Response
+
+
