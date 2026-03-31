@@ -25,7 +25,7 @@ Building systems handling <strong>1K+ concurrent users</strong> and <strong>100K
 
 ## Engineering Activity
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&theme=radical&cache_seconds=30" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&hide_border=true" height="160"/>
   <img src="https://streak-stats.demolab.com?user=devloperdevesh&hide_border=true&cache_seconds=30" height="160"/>
 </p>
 
