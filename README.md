@@ -24,12 +24,10 @@ Building systems handling <strong>1K+ concurrent users</strong> and <strong>100K
 ---
 
 ## Engineering Activity
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=devloperdevesh&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=devloperdevesh&hide_border=true&cache_seconds=30" height="160"/>
 </p>
-
 ---
 
 ## What I Build
