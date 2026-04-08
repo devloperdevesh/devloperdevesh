@@ -28,7 +28,7 @@
 
 - High-throughput distributed systems validated under high-concurrency workloads  
 - Async backend systems with non-blocking execution  
-- Retrieval-augmented generation (RAG) pipelines and vector search systems  
+- RAG pipelines and vector search systems  
 - Multi-LLM orchestration and inference systems  
 - Distributed caching and latency optimization  
 
@@ -60,3 +60,18 @@ System designed for high-concurrency AI workloads with focus on performance, rel
 - ~40% latency reduction  
 - ~30% cost reduction  
 - Stable under sustained and burst traffic  
+
+---
+
+## System Architecture
+
+```mermaid
+graph TD
+    Client --> CDN
+    CDN --> LB[Load Balancer]
+    LB --> API[FastAPI Gateway]
+    API --> Cache[Redis Cache]
+    API --> Workers[Async Workers]
+    Workers --> VectorDB[FAISS Index]
+    VectorDB --> LLM[LLM Providers]
+    LLM --> Response
