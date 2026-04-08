@@ -1,17 +1,8 @@
 <h1 align="center">Devesh Chauhan</h1>
 
 <p align="center">
-Backend Systems Engineer • Distributed Systems • AI Infrastructure
+  <img src="https://raw.githubusercontent.com/devloperdevesh/devloperdevesh/main/banner.png" width="100%" />
 </p>
-
-<p align="center">
-Building high-concurrency systems handling <strong>~850 req/sec</strong> with <strong>sub-500ms latency</strong>
-</p>
-
-<p align="center">
-<strong>Latency ↓ 40%</strong> • <strong>Cost ↓ 30%</strong> • <strong>Production-validated systems</strong>
-</p>
-
 <p align="center">
   <a href="https://developerdevesh.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
