@@ -1,9 +1,6 @@
 <h1 align="center">Devesh Chauhan</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devloperdevesh/devloperdevesh/main/banner.png" width="80%" />
-</p>
-<p align="center">
   <a href="https://developerdevesh.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
@@ -11,6 +8,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devloperdevesh/devloperdevesh/main/banner.png" width="80%" />
+</p>
+
 
 ---
 
