@@ -1,7 +1,7 @@
 <h1 align="center">Devesh Chauhan</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devloperdevesh/devloperdevesh/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/devloperdevesh/devloperdevesh/main/banner.png" width="80%" />
 </p>
 <p align="center">
   <a href="https://developerdevesh.vercel.app">
