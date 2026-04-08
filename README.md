@@ -8,14 +8,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devloperdevesh/devloperdevesh/main/banner.png" width="80%" />
 </p>
 
-
 ---
 
-## ⚡ Engineering Activity
+## Engineering Activity
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true" height="160"/>
   <img src="https://streak-stats.demolab.com?user=devloperdevesh&hide_border=true" height="160"/>
@@ -23,24 +24,24 @@
 
 ---
 
-## 🧠 What I Build
+## What I Build
 
-- High-throughput distributed systems (validated under ~850 req/sec load)
-- Async backend systems (non-blocking, high concurrency)
-- RAG pipelines and vector search systems
-- Multi-LLM orchestration and inference systems
-- Distributed caching and latency optimization
+- High-throughput distributed systems validated under high-concurrency workloads  
+- Async backend systems with non-blocking execution  
+- Retrieval-augmented generation (RAG) pipelines and vector search systems  
+- Multi-LLM orchestration and inference systems  
+- Distributed caching and latency optimization  
 
 ---
 
-## 🚀 Flagship System — Distributed AI Backend
+## Flagship System — Distributed AI Backend
 
-Production-scale system designed for high-concurrency AI workloads.
+System designed for high-concurrency AI workloads with focus on performance, reliability, and scalability.
 
 ### Scale
-- ~850 req/sec throughput (validated under load)
-- Designed for high-concurrency workloads
-- 100K+ documents processed
+- ~850 req/sec throughput (validated under load)  
+- Designed for high-concurrency workloads  
+- 100K+ documents processed  
 
 ### Architecture
 - Async FastAPI microservices  
@@ -50,7 +51,7 @@ Production-scale system designed for high-concurrency AI workloads.
 - Multi-LLM routing layer  
 
 ### Engineering Decisions
-- Stateless services for horizontal scaling  
+- Stateless services enabling horizontal scaling  
 - Async pipelines for non-blocking execution  
 - Cache-first design to reduce inference cost  
 - Backpressure handling for traffic stability  
@@ -59,18 +60,3 @@ Production-scale system designed for high-concurrency AI workloads.
 - ~40% latency reduction  
 - ~30% cost reduction  
 - Stable under sustained and burst traffic  
-
----
-
-## 🧩 System Architecture
-
-```mermaid
-graph TD
-    Client --> CDN
-    CDN --> LB[Load Balancer]
-    LB --> API[FastAPI Gateway]
-    API --> Cache[Redis Cache]
-    API --> Workers[Async Workers]
-    Workers --> VectorDB[FAISS Index]
-    VectorDB --> LLM[LLM Providers]
-    LLM --> Response
