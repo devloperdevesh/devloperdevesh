@@ -10,9 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devloperdevesh/devloperdevesh/main/banner.png" width="80%" />
-</p>
 
 ---
 
