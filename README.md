@@ -1,15 +1,18 @@
 <h1 align="center">Devesh Chauhan</h1>
 
 <p align="center">
-  Backend Engineer building scalable distributed systems and AI infrastructure
+  Backend Engineer focused on high-concurrency distributed systems and AI infrastructure
+</p>
+
+<p align="center">
+  Built systems handling <b>~850+ req/sec</b> with <b>sub-500ms latency</b> under load
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/devesh-chauhan-6b5691308">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
 
 ---
 
@@ -24,41 +27,45 @@
 
 ## What I Build
 
-- High-concurrency backend systems handling **500–850+ req/sec under load**  
+- High-concurrency backend systems (**500–850+ req/sec**)  
 - Distributed AI systems (**RAG, LLM orchestration, vector search**)  
-- API-first systems designed for **external integrations and automation workflows**  
-- Event-driven architectures using **Kafka and async pipelines**  
-- Low-latency systems optimized using **caching, batching, and routing strategies**  
+- Event-driven architectures (**Kafka, async pipelines**)  
+- API-first platforms for integrations and automation  
+- Low-latency systems using caching, batching, and routing  
 
 ---
 
-## Flagship System — High-Concurrency AI API Platform
+## Flagship System — High-Concurrency AI Platform
 
-Production-grade distributed backend system designed for scalable AI workloads and real-world traffic.
+Production-grade distributed backend system designed to simulate real-world AI workloads at scale.
 
 ### Scale
+
 - **~850 req/sec throughput** (load-tested)  
-- **500+ concurrent requests handled with stable latency**  
+- **500+ concurrent requests with stable latency**  
 - **100K+ documents processed**  
 
 ### Architecture
-- Async **FastAPI microservices** (stateless, horizontally scalable)  
-- **Redis distributed caching** for low-latency performance  
-- **FAISS vector search** for efficient semantic retrieval  
-- **Kafka-based event pipelines** for async and decoupled processing  
-- **Multi-LLM routing layer** with intelligent fallback handling  
+
+- Async **FastAPI services** (stateless, horizontally scalable)  
+- **Redis caching layer** for latency optimization  
+- **FAISS vector index** for semantic retrieval  
+- **Kafka event pipelines** for decoupled processing  
+- **Multi-LLM routing layer** with fallback handling  
 
 ### Engineering Decisions
-- Stateless services enabling horizontal scaling  
-- Async pipelines for non-blocking execution  
-- Cache-first design to reduce latency and inference cost  
-- Queueing and backpressure handling for traffic stability  
-- API-first design enabling integration into external systems  
+
+- Stateless services for horizontal scalability  
+- Async execution for non-blocking performance  
+- Cache-first design to reduce latency and cost  
+- Backpressure and queueing for traffic stability  
+- API-first design for extensibility  
 
 ### Impact
+
 - **~40% latency reduction**  
 - **~30% cost reduction**  
-- Stable under sustained and burst traffic conditions  
+- Stable under sustained and burst traffic  
 
 ---
 
