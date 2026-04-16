@@ -9,6 +9,14 @@
 </p>
 
 <p align="center">
+  Building scalable backend and AI infrastructure for <b>global, production-grade applications</b>
+</p>
+
+<p align="center">
+  <b>Open to Remote (Global) • Open to Relocation & Visa Sponsorship</b>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/devesh-chauhan-6b5691308">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
