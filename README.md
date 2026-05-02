@@ -40,7 +40,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devloperdevesh&theme=github-compact&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=devloperdevesh&theme=github&hide_border=true"
     width="92%"
   />
 </p>
