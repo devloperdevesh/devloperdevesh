@@ -1,19 +1,15 @@
 <h1 align="center">Devesh Chauhan</h1>
 
 <p align="center">
-  Backend Engineer building distributed systems that remain reliable under real-world load
+  Backend Engineer focused on building distributed systems that hold up under real-world load
 </p>
 
 <p align="center">
-  Built high-concurrency systems handling 850+ req/sec with sub-500ms latency
+  850+ req/sec · ~480ms p95 · Async · Kafka · Redis
 </p>
 
 <p align="center">
-  Distributed Systems · AI Infrastructure · High-Throughput Backend Engineering
-</p>
-
-<p align="center">
-  Open to remote opportunities and global collaboration
+  AI Infrastructure · High-Concurrency Systems · Low-Latency APIs
 </p>
 
 <p align="center">
@@ -26,22 +22,9 @@
 
 ## Overview
 
-I build backend systems that do not fail under scale, concurrency, and unpredictable traffic.
+I build backend systems that are designed to stay stable under concurrency, scale, and unpredictable traffic.
 
-My work focuses on designing high-throughput, low-latency systems using async architectures, distributed caching, and event-driven pipelines. I prioritize reliability, performance, and cost-efficiency in production-like environments.
-
-Recently, I designed and load-tested systems handling 850+ requests per second with stable latency, using stateless services, Redis caching, and Kafka-based pipelines.
-
----
-
-## Engineering Snapshot
-
-- 850+ req/sec throughput under load-tested conditions  
-- ~480ms p95 latency under concurrent traffic  
-- 500+ concurrent requests handled reliably  
-- 100K+ documents processed in distributed pipelines  
-- ~40% latency reduction through async and caching strategies  
-- ~30% infrastructure cost reduction via optimized routing and caching  
+My focus is on high-throughput architectures using async execution, distributed caching, and event-driven systems. I care about systems that don’t just work in ideal conditions, but continue to perform under stress.
 
 ---
 
@@ -51,35 +34,35 @@ Recently, I designed and load-tested systems handling 850+ requests per second w
 - Distributed AI systems (RAG pipelines, LLM orchestration, vector search)  
 - Event-driven architectures (Kafka, async workers, message queues)  
 - API-first platforms for integrations and automation  
-- Low-latency systems using caching, batching, and efficient request routing  
+- Low-latency systems using caching, batching, and efficient routing  
 
 ---
 
 ## Flagship System — High-Concurrency AI Platform
 
-Production-grade distributed backend system designed to handle real-world AI workloads at scale.
+Production-grade backend system built to handle real-world AI workloads at scale.
 
 ### Scale
 
-- 850+ req/sec throughput (load-tested)  
-- 500+ concurrent requests with stable latency  
+- ~850 req/sec throughput (load-tested)  
+- 500+ concurrent requests handled reliably  
 - 100K+ documents processed  
 
 ### Architecture
 
 - Async FastAPI services (stateless, horizontally scalable)  
-- Redis distributed caching layer  
+- Redis distributed caching  
 - FAISS vector index for semantic retrieval  
-- Kafka-based event-driven pipelines  
-- Multi-LLM routing layer with fallback handling  
+- Kafka-based event pipelines  
+- Multi-LLM routing with fallback handling  
 
 ### Engineering Decisions
 
-- Stateless architecture for horizontal scalability  
+- Stateless services for horizontal scaling  
 - Async pipelines for non-blocking execution  
-- Cache-first design to reduce latency and cost  
+- Cache-first approach to reduce latency and cost  
 - Backpressure handling for system stability  
-- API-first approach for extensibility  
+- API-first design for extensibility  
 
 ### Impact
 
