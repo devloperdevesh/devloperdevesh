@@ -31,7 +31,7 @@
 ## Open Source
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Active-22c55e?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Active-16a34a?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -40,13 +40,15 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devloperdevesh&theme=github&bg_color=ffffff&color=000000&line=2563eb&point=2563eb&hide_border=true"
-    width="90%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=devloperdevesh&theme=github&bg_color=ffffff&color=111827&line=3b82f6&point=2563eb&area=true&area_color=bfdbfe&hide_border=true"
+    width="88%"
   />
 </p>
 
 <p align="center">
-  <sub><b>Building real-world systems • Performance focused • Open collaboration 🚀</b></sub>
+  <sub>
+    <b>High-performance systems • Latency optimized • Built in public 🚀</b>
+  </sub>
 </p>
 
 ---
