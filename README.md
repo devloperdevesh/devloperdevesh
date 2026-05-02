@@ -38,21 +38,24 @@
   <strong>Distributed Systems • High-Concurrency APIs • AI Infrastructure</strong>
 </p>
 
+<br/>
+
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devloperdevesh&theme=github&bg_color=ffffff&color=111827&line=3b82f6&point=2563eb&area=true&area_color=bfdbfe&hide_border=true"
-    width="88%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=devloperdevesh&theme=github&bg_color=ffffff&color=0f172a&line=3b82f6&point=2563eb&area=true&area_color=e0f2fe&hide_border=true"
+    width="85%"
   />
 </p>
 
+<br/>
+
 <p align="center">
   <sub>
-    <b>High-performance systems • Latency optimized • Built in public 🚀</b>
+    <b>Consistency • Performance • Real-world engineering 🚀</b>
   </sub>
 </p>
 
 ---
-
 ## What I Build
 
 - High-concurrency backend systems (**500–850+ req/sec** under load)  
