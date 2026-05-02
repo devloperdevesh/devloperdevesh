@@ -35,18 +35,18 @@
 </p>
 
 <p align="center">
-  <b>ML Systems • Backend Infrastructure • Distributed AI</b>
+  <b>Distributed Systems • High-Concurrency APIs • AI Infrastructure</b>
 </p>
 
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=devloperdevesh&theme=github-compact&hide_border=true"
-    width="95%"
+    width="92%"
   />
 </p>
 
 <p align="center">
-  <sub>PRs welcome • Open collaboration • Always building in public 🚀</sub>
+  <sub>Scaling real-world systems • Optimizing latency • Building in public 🚀</sub>
 </p>
 
 ---
