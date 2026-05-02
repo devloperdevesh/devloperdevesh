@@ -9,9 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/devesh-chauhan-6b5691308">LinkedIn</a>
+  <a href="https://linkedin.com/in/devesh-chauhan-6b5691308">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-
 ---
 
 ## Engineering Activity
