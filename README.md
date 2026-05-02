@@ -1,11 +1,11 @@
 <h1 align="center">Devesh Chauhan</h1>
 
 <p align="center">
-  Backend Engineer focused on building distributed systems that hold up under real-world load
+  Backend Engineer building distributed systems that stay reliable under real-world load
 </p>
 
 <p align="center">
-  850+ req/sec · ~480ms p95 · Async · Kafka · Redis
+  850+ req/sec · sub-500ms latency · async · Kafka · Redis
 </p>
 
 <p align="center">
@@ -20,19 +20,11 @@
 
 ---
 
-## Overview
-
-I build backend systems that are designed to stay stable under concurrency, scale, and unpredictable traffic.
-
-My focus is on high-throughput architectures using async execution, distributed caching, and event-driven systems. I care about systems that don’t just work in ideal conditions, but continue to perform under stress.
-
----
-
 ## What I Build
 
 - High-concurrency backend systems (500–850+ req/sec under load)  
-- Distributed AI systems (RAG pipelines, LLM orchestration, vector search)  
-- Event-driven architectures (Kafka, async workers, message queues)  
+- Distributed AI systems (RAG, LLM orchestration, vector search)  
+- Event-driven architectures (Kafka, async pipelines)  
 - API-first platforms for integrations and automation  
 - Low-latency systems using caching, batching, and efficient routing  
 
@@ -40,12 +32,12 @@ My focus is on high-throughput architectures using async execution, distributed 
 
 ## Flagship System — High-Concurrency AI Platform
 
-Production-grade backend system built to handle real-world AI workloads at scale.
+Production-grade distributed backend system designed to handle real-world AI workloads at scale.
 
 ### Scale
 
 - ~850 req/sec throughput (load-tested)  
-- 500+ concurrent requests handled reliably  
+- 500+ concurrent requests with stable latency  
 - 100K+ documents processed  
 
 ### Architecture
@@ -58,11 +50,11 @@ Production-grade backend system built to handle real-world AI workloads at scale
 
 ### Engineering Decisions
 
-- Stateless services for horizontal scaling  
+- Stateless architecture for horizontal scaling  
 - Async pipelines for non-blocking execution  
-- Cache-first approach to reduce latency and cost  
+- Cache-first design to reduce latency and cost  
 - Backpressure handling for system stability  
-- API-first design for extensibility  
+- API-first approach for extensibility  
 
 ### Impact
 
