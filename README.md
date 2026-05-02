@@ -5,13 +5,11 @@
 </p>
 
 <p align="center">
-  Async • Kafka • Redis • Low-Latency APIs • AI Infrastructure
+  FastAPI · Redis · Kafka · Async Systems · AI Infrastructure
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/devesh-chauhan-6b5691308">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/devesh-chauhan-6b5691308">LinkedIn</a>
 </p>
 
 ---
@@ -28,47 +26,47 @@
 ## Open Source
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devloperdevesh&theme=github&bg_color=ffffff&color=0f172a&line=3b82f6&point=2563eb&area=true&area_color=e0f2fe&hide_border=true"
-    width="85%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devloperdevesh&theme=github&bg_color=ffffff&color=111827&line=2563eb&point=2563eb&area=true&hide_border=true" width="85%"/>
 </p>
 
 <p align="center">
-  <sub><b>Consistent contributions • Performance-focused systems • Built in public</b></sub>
+  <sub>Consistent contributions across backend systems and AI infrastructure</sub>
 </p>
 
 ---
 
 ## What I Build
 
-- High-concurrency backend systems (**500–850+ req/sec**)  
-- Distributed AI systems (**RAG, LLM orchestration, vector search**)  
-- Event-driven architectures (**Kafka, async pipelines**)  
-- Low-latency APIs using caching, batching, and routing  
+- High-concurrency backend systems (500–850+ req/sec)
+- Distributed AI systems (RAG, LLM orchestration, vector search)
+- Event-driven architectures (Kafka, async pipelines)
+- Low-latency APIs using caching, batching, and routing
 
 ---
 
 ## Flagship System — High-Concurrency AI Platform
 
-**Production-grade distributed backend for AI workloads**
+Production-grade backend system designed for real-world AI workloads.
 
-### ⚡ Scale
+### Scale
+
 - ~850 req/sec throughput  
-- 500+ concurrent users  
+- 500+ concurrent requests  
 - 100K+ documents processed  
 
-### 🧠 Architecture
-- Async FastAPI services (stateless)  
+### Architecture
+
+- Stateless FastAPI services  
 - Redis caching layer  
-- FAISS vector search  
+- FAISS-based retrieval  
 - Kafka event pipelines  
 - Multi-LLM routing  
 
-### 📈 Impact
-- ↓ ~40% latency  
-- ↓ ~30% cost  
-- Stable under burst traffic  
+### Impact
+
+- ~40% latency reduction  
+- ~30% cost reduction  
+- Stable under sustained and burst traffic  
 
 ---
 
@@ -77,10 +75,10 @@
 ```mermaid
 graph TD
     Client --> CDN
-    CDN --> LB[Load Balancer]
-    LB --> API[FastAPI Gateway]
-    API --> Cache[Redis]
+    CDN --> LB
+    LB --> API
+    API --> Redis
     API --> Workers
-    Workers --> VectorDB[FAISS]
-    VectorDB --> LLM
+    Workers --> FAISS
+    FAISS --> LLM
     LLM --> Response
