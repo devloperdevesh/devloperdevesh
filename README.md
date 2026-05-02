@@ -29,6 +29,22 @@
 
 ---
 
+## Open Source
+
+- Contributions to Machine Learning & backend infrastructure projects  
+- Focus on performance, scalability, and real-world systems  
+- Actively exploring distributed AI systems and infra tooling  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devloperdevesh&theme=react-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <b>PRs, collaborations, and discussions are always welcome</b>
+</p>
+
+---
+
 ## What I Build
 
 - High-concurrency backend systems (**500–850+ req/sec** under load)  
