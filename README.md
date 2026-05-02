@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  850+ req/sec · sub-500ms latency · async · Kafka · Redis
+  <b>850+ req/sec</b> · <b>sub-500ms latency</b> · async · Kafka · Redis
 </p>
 
 <p align="center">
@@ -20,13 +20,22 @@
 
 ---
 
+## Engineering Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=devloperdevesh&hide_border=true" height="160"/>
+</p>
+
+---
+
 ## What I Build
 
-- High-concurrency backend systems (500–850+ req/sec under load)  
-- Distributed AI systems (RAG, LLM orchestration, vector search)  
-- Event-driven architectures (Kafka, async pipelines)  
+- High-concurrency backend systems (**500–850+ req/sec** under load)  
+- Distributed AI systems (**RAG, LLM orchestration, vector search**)  
+- Event-driven architectures (**Kafka, async pipelines**)  
 - API-first platforms for integrations and automation  
-- Low-latency systems using caching, batching, and efficient routing  
+- Low-latency systems optimized using caching, batching, and routing  
 
 ---
 
@@ -36,9 +45,9 @@ Production-grade distributed backend system designed to handle real-world AI wor
 
 ### Scale
 
-- ~850 req/sec throughput (load-tested)  
-- 500+ concurrent requests with stable latency  
-- 100K+ documents processed  
+- **~850 req/sec** throughput (load-tested)  
+- **500+ concurrent requests** with stable latency  
+- **100K+ documents processed**  
 
 ### Architecture
 
@@ -58,8 +67,8 @@ Production-grade distributed backend system designed to handle real-world AI wor
 
 ### Impact
 
-- ~40% latency reduction  
-- ~30% cost reduction  
+- **~40% latency reduction**  
+- **~30% cost reduction**  
 - Stable under sustained and burst traffic  
 
 ---
