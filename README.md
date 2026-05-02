@@ -35,18 +35,18 @@
 </p>
 
 <p align="center">
-  <b>Distributed Systems • High-Concurrency APIs • AI Infrastructure</b>
+  <strong>Distributed Systems • High-Concurrency APIs • AI Infrastructure</strong>
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devloperdevesh&theme=github&hide_border=true"
-    width="92%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=devloperdevesh&theme=github&bg_color=ffffff&color=000000&line=2563eb&point=2563eb&hide_border=true"
+    width="90%"
   />
 </p>
 
 <p align="center">
-  <sub>Scaling real-world systems • Optimizing latency • Building in public 🚀</sub>
+  <sub><b>Building real-world systems • Performance focused • Open collaboration 🚀</b></sub>
 </p>
 
 ---
