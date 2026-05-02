@@ -1,15 +1,11 @@
 <h1 align="center">Devesh Chauhan</h1>
 
 <p align="center">
-  Backend Engineer building distributed systems that stay reliable under real-world load
+  Building distributed systems handling <b>850+ req/sec</b> with sub-500ms latency
 </p>
 
 <p align="center">
-  <b>850+ req/sec</b> · <b>sub-500ms latency</b> · async · Kafka · Redis
-</p>
-
-<p align="center">
-  AI Infrastructure · High-Concurrency Systems · Low-Latency APIs
+  Async • Kafka • Redis • Low-Latency APIs • AI Infrastructure
 </p>
 
 <p align="center">
@@ -23,22 +19,13 @@
 ## Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=devloperdevesh&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=devloperdevesh&theme=default&hide_border=true&background=ffffff" height="160"/>
 </p>
 
 ---
+
 ## Open Source
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Active-16a34a?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-<p align="center">
-  <strong>Distributed Systems • High-Concurrency APIs • AI Infrastructure</strong>
-</p>
-
-<br/>
 
 <p align="center">
   <img 
@@ -47,56 +34,41 @@
   />
 </p>
 
-<br/>
-
 <p align="center">
-  <sub>
-    <b>Consistency • Performance • Real-world engineering 🚀</b>
-  </sub>
+  <sub><b>Consistent contributions • Performance-focused systems • Built in public</b></sub>
 </p>
 
 ---
+
 ## What I Build
 
-- High-concurrency backend systems (**500–850+ req/sec** under load)  
+- High-concurrency backend systems (**500–850+ req/sec**)  
 - Distributed AI systems (**RAG, LLM orchestration, vector search**)  
 - Event-driven architectures (**Kafka, async pipelines**)  
-- API-first platforms for integrations and automation  
-- Low-latency systems optimized using caching, batching, and routing  
+- Low-latency APIs using caching, batching, and routing  
 
 ---
 
 ## Flagship System — High-Concurrency AI Platform
 
-Production-grade distributed backend system designed to handle real-world AI workloads at scale.
+**Production-grade distributed backend for AI workloads**
 
-### Scale
+### ⚡ Scale
+- ~850 req/sec throughput  
+- 500+ concurrent users  
+- 100K+ documents processed  
 
-- **~850 req/sec** throughput (load-tested)  
-- **500+ concurrent requests** with stable latency  
-- **100K+ documents processed**  
+### 🧠 Architecture
+- Async FastAPI services (stateless)  
+- Redis caching layer  
+- FAISS vector search  
+- Kafka event pipelines  
+- Multi-LLM routing  
 
-### Architecture
-
-- Async FastAPI services (stateless, horizontally scalable)  
-- Redis distributed caching  
-- FAISS vector index for semantic retrieval  
-- Kafka-based event pipelines  
-- Multi-LLM routing with fallback handling  
-
-### Engineering Decisions
-
-- Stateless architecture for horizontal scaling  
-- Async pipelines for non-blocking execution  
-- Cache-first design to reduce latency and cost  
-- Backpressure handling for system stability  
-- API-first approach for extensibility  
-
-### Impact
-
-- **~40% latency reduction**  
-- **~30% cost reduction**  
-- Stable under sustained and burst traffic  
+### 📈 Impact
+- ↓ ~40% latency  
+- ↓ ~30% cost  
+- Stable under burst traffic  
 
 ---
 
@@ -107,8 +79,8 @@ graph TD
     Client --> CDN
     CDN --> LB[Load Balancer]
     LB --> API[FastAPI Gateway]
-    API --> Cache[Redis Cache]
-    API --> Workers[Async Workers]
-    Workers --> VectorDB[FAISS Index]
-    VectorDB --> LLM[LLM Providers]
+    API --> Cache[Redis]
+    API --> Workers
+    Workers --> VectorDB[FAISS]
+    VectorDB --> LLM
     LLM --> Response
