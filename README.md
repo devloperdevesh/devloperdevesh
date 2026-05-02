@@ -1,11 +1,15 @@
 <h1 align="center">Devesh Chauhan</h1>
 
 <p align="center">
-  Backend Engineer working on high-concurrency distributed systems and AI infrastructure
+  Backend Engineer building distributed systems that remain reliable under real-world load
 </p>
 
 <p align="center">
-  Built systems handling <b>~850+ req/sec</b> with <b>sub-500ms latency</b> under real-world load
+  Built high-concurrency systems handling 850+ req/sec with sub-500ms latency
+</p>
+
+<p align="center">
+  Distributed Systems · AI Infrastructure · High-Throughput Backend Engineering
 </p>
 
 <p align="center">
@@ -20,22 +24,34 @@
 
 ---
 
-## Engineering Activity
+## Overview
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=devloperdevesh&hide_border=true" height="160"/>
-</p>
+I build backend systems that do not fail under scale, concurrency, and unpredictable traffic.
+
+My work focuses on designing high-throughput, low-latency systems using async architectures, distributed caching, and event-driven pipelines. I prioritize reliability, performance, and cost-efficiency in production-like environments.
+
+Recently, I designed and load-tested systems handling 850+ requests per second with stable latency, using stateless services, Redis caching, and Kafka-based pipelines.
+
+---
+
+## Engineering Snapshot
+
+- 850+ req/sec throughput under load-tested conditions  
+- ~480ms p95 latency under concurrent traffic  
+- 500+ concurrent requests handled reliably  
+- 100K+ documents processed in distributed pipelines  
+- ~40% latency reduction through async and caching strategies  
+- ~30% infrastructure cost reduction via optimized routing and caching  
 
 ---
 
 ## What I Build
 
-* High-concurrency backend systems (500–850+ req/sec under load)
-* Distributed AI systems (RAG, LLM orchestration, vector search)
-* Event-driven architectures (Kafka, async pipelines)
-* API-first platforms for integrations and automation
-* Low-latency systems optimized using caching, batching, and routing
+- High-concurrency backend systems (500–850+ req/sec under load)  
+- Distributed AI systems (RAG pipelines, LLM orchestration, vector search)  
+- Event-driven architectures (Kafka, async workers, message queues)  
+- API-first platforms for integrations and automation  
+- Low-latency systems using caching, batching, and efficient request routing  
 
 ---
 
@@ -45,37 +61,37 @@ Production-grade distributed backend system designed to handle real-world AI wor
 
 ### Scale
 
-* ~850 req/sec throughput (load-tested)
-* 500+ concurrent requests with stable latency
-* 100K+ documents processed
+- 850+ req/sec throughput (load-tested)  
+- 500+ concurrent requests with stable latency  
+- 100K+ documents processed  
 
 ### Architecture
 
-* Async FastAPI services (stateless, horizontally scalable)
-* Redis distributed caching
-* FAISS vector index for semantic retrieval
-* Kafka-based event pipelines
-* Multi-LLM routing layer with fallback handling
+- Async FastAPI services (stateless, horizontally scalable)  
+- Redis distributed caching layer  
+- FAISS vector index for semantic retrieval  
+- Kafka-based event-driven pipelines  
+- Multi-LLM routing layer with fallback handling  
 
 ### Engineering Decisions
 
-* Stateless architecture for horizontal scaling
-* Async pipelines for non-blocking execution
-* Cache-first design to reduce latency and cost
-* Backpressure handling for stability
-* API-first approach for extensibility
+- Stateless architecture for horizontal scalability  
+- Async pipelines for non-blocking execution  
+- Cache-first design to reduce latency and cost  
+- Backpressure handling for system stability  
+- API-first approach for extensibility  
 
 ### Impact
 
-* ~40% latency reduction
-* ~30% cost reduction
-* Stable under sustained and burst traffic
+- ~40% latency reduction  
+- ~30% cost reduction  
+- Stable under sustained and burst traffic  
 
 ---
 
 ## System Architecture
 
-```mermaid id="b0kx8g"
+```mermaid
 graph TD
     Client --> CDN
     CDN --> LB[Load Balancer]
@@ -85,21 +101,3 @@ graph TD
     Workers --> VectorDB[FAISS Index]
     VectorDB --> LLM[LLM Providers]
     LLM --> Response
-```
-
----
-
-## Focus
-
-* Distributed systems and system design
-* High-throughput backend engineering
-* AI infrastructure and LLM systems
-* Performance optimization and reliability
-
----
-
-## Positioning
-
-* Backend Engineer (Distributed Systems)
-* AI Infrastructure
-* High-Concurrency Systems
