@@ -28,19 +28,25 @@
 </p>
 
 ---
-
 ## Open Source
 
 <p align="center">
-  <b>Contributing to ML systems • Backend infrastructure • Distributed AI</b>
+  <img src="https://img.shields.io/badge/Open%20Source-Active-22c55e?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devloperdevesh&theme=react-dark&hide_border=true"/>
+  <b>ML Systems • Backend Infrastructure • Distributed AI</b>
 </p>
 
 <p align="center">
-  <b>Open Source • PRs Welcome • Collaboration Friendly 🚀</b>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=devloperdevesh&theme=github-compact&hide_border=true"
+    width="95%"
+  />
+</p>
+
+<p align="center">
+  <sub>PRs welcome • Open collaboration • Always building in public 🚀</sub>
 </p>
 
 ---
