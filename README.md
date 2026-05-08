@@ -70,17 +70,4 @@ Production-grade backend system designed for real-world AI workloads.
 - ~30% cost reduction  
 - Stable under sustained and burst traffic  
 
----
 
-## System Architecture
-
-```mermaid
-graph TD
-    Client --> CDN
-    CDN --> LB
-    LB --> API
-    API --> Redis
-    API --> Workers
-    Workers --> FAISS
-    FAISS --> LLM
-    LLM --> Response
