@@ -4,7 +4,7 @@
 
 ### Backend Engineer • Distributed Systems • AI Infrastructure
 
-Building scalable backend systems handling **850+ req/sec**
+Building scalable backend systems handling **850+ req/sec**  
 with low-latency distributed architectures
 
 FastAPI • Redis • Kafka • Async Systems • RAG
@@ -82,30 +82,19 @@ Production-grade high-concurrency AI platform
 </div>
 
 ```txt
-                    Client Layer
-                          │
-                          ▼
-                  FastAPI Gateway
-                          │
-                          ▼
-                 Redis Cache Layer
-                          │
-                          ▼
-               Kafka Event Pipelines
-                          │
-                          ▼
-               FAISS Vector Retrieval
-                          │
-                          ▼
-                  Multi-LLM Routing
-```
-
----
-
-<div align="center">
-
-<sub>
-Focused on scalable backend systems and distributed AI infrastructure
-</sub>
-
-</div>
+                 Client Layer
+                       │
+                       ▼
+                FastAPI Gateway
+                       │
+                       ▼
+               Redis Cache Layer
+                       │
+                       ▼
+             Kafka Event Pipelines
+                       │
+                       ▼
+             FAISS Vector Retrieval
+                       │
+                       ▼
+                Multi-LLM Routing
