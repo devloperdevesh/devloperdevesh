@@ -1,64 +1,64 @@
-<h1 align="center">Devesh Chauhan</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Backend Engineer • Distributed Systems • AI Infrastructure</strong>
-</p>
+# Devesh Chauhan
 
-<p align="center">
-  Building scalable backend systems handling <strong>850+ req/sec</strong>
-  with low-latency distributed architectures
-</p>
+### Backend Engineer • Distributed Systems • AI Infrastructure
 
-<p align="center">
-  FastAPI • Redis • Kafka • Async Systems • RAG
-</p>
+Building scalable backend systems handling **850+ req/sec**
+with low-latency distributed architectures
+
+FastAPI • Redis • Kafka • Async Systems • RAG
 
 <br>
 
-<p align="center">
-  <a href="https://linkedin.com/in/devesh-chauhan-6b5691308">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://linkedin.com/in/devesh-chauhan-6b5691308">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  &nbsp;
+<a href="https://www.youtube.com/@thedeveshcodes">
+  <img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
-  <a href="https://www.youtube.com/@thedeveshcodes">
-    <img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<h2 align="center">Engineering Activity</h2>
+<div align="center">
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
-  />
+## Engineering Activity
 
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=devloperdevesh&hide_border=true"
-  />
-</p>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
+/>
 
----
+<img
+  height="180"
+  src="https://streak-stats.demolab.com?user=devloperdevesh&hide_border=true"
+/>
 
-<h2 align="center">Core Engineering Focus</h2>
-
-<p align="center">
-  Distributed Systems • High-Concurrency APIs • Async Pipelines •
-  AI Infrastructure • Caching • Event-Driven Architectures
-</p>
+</div>
 
 ---
 
-<h2 align="center">Flagship System</h2>
+<div align="center">
 
-<p align="center">
-  Production-grade high-concurrency AI platform
-</p>
+## Core Engineering Focus
+
+Distributed Systems • High-Concurrency APIs • Async Pipelines  
+AI Infrastructure • Caching • Event-Driven Architectures
+
+</div>
+
+---
+
+<div align="center">
+
+## Flagship System
+
+Production-grade high-concurrency AI platform
+
+</div>
 
 <br>
 
@@ -66,26 +66,46 @@
 
 | Metric | Scale |
 |:--|:--|
-| Throughput | 850+ req/sec |
-| Concurrent Requests | 500+ |
-| API Latency | Sub-500ms |
-| Documents Processed | 100K+ |
+| Throughput | **850+ req/sec** |
+| Concurrent Requests | **500+** |
+| API Latency | **Sub-500ms** |
+| Documents Processed | **100K+** |
 
 </div>
 
 ---
 
-<h3 align="center">Architecture</h3>
+<div align="center">
+
+## System Architecture
+
+</div>
 
 ```txt
-Client
-   ↓
-FastAPI Gateway
-   ↓
-Redis Cache Layer
-   ↓
-Kafka Event Pipelines
-   ↓
-FAISS Vector Retrieval
-   ↓
-Multi-LLM Routing
+                    Client Layer
+                          │
+                          ▼
+                  FastAPI Gateway
+                          │
+                          ▼
+                 Redis Cache Layer
+                          │
+                          ▼
+               Kafka Event Pipelines
+                          │
+                          ▼
+               FAISS Vector Retrieval
+                          │
+                          ▼
+                  Multi-LLM Routing
+```
+
+---
+
+<div align="center">
+
+<sub>
+Focused on scalable backend systems and distributed AI infrastructure
+</sub>
+
+</div>
