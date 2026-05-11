@@ -13,23 +13,19 @@ with low-latency distributed architectures
 
 <br>
 
-<p align="center">
-  <a href="https://linkedin.com/in/devesh-chauhan-6b5691308">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Devesh_Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+<a href="https://linkedin.com/in/devesh-chauhan-6b5691308">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Devesh_Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
-  &nbsp;&nbsp;
-
-  <a href="https://www.youtube.com/@thedeveshcodes">
-    <img
-      src="https://img.shields.io/badge/YouTube-thedeveshcodes-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-      alt="YouTube"
-    />
-  </a>
-</p>
+<a href="https://www.youtube.com/@thedeveshcodes">
+  <img
+    src="https://img.shields.io/badge/YouTube-thedeveshcodes-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+    alt="YouTube"
+  />
+</a>
 
 </div>
 
@@ -58,21 +54,29 @@ event-driven architectures, and production AI systems.
 
 ## Engineering Activity
 
-<p align="center">
-  <img
-    height="175"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
-    alt="GitHub Stats"
-  />
+<table>
+<tr>
+<td align="center">
 
-  &nbsp;&nbsp;&nbsp;
+<img
+  height="175"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
+  alt="GitHub Stats"
+/>
 
-  <img
-    height="175"
-    src="https://streak-stats.demolab.com?user=devloperdevesh&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+</td>
+
+<td align="center">
+
+<img
+  height="175"
+  src="https://streak-stats.demolab.com?user=devloperdevesh&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
