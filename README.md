@@ -11,16 +11,14 @@
 <p align="center">
   <a href="https://linkedin.com/in/devesh-chauhan-6b5691308">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Devesh%20Chauhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
       alt="LinkedIn"
     />
   </a>
-
-  &nbsp;&nbsp;
-
+  
   <a href="https://www.youtube.com/@thedeveshcodes">
     <img
-      src="https://img.shields.io/badge/YouTube-thedeveshcodes-FF0000?style=flat-square&logo=youtube&logoColor=white"
+      src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000"
       alt="YouTube"
     />
   </a>
