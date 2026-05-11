@@ -20,6 +20,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
+  &nbsp;
+
   <a href="https://www.youtube.com/@thedeveshcodes">
     <img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
@@ -27,64 +29,63 @@
 
 ---
 
-## Engineering Activity
+<h2 align="center">Engineering Activity</h2>
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
   />
 
   <img
-    height="165"
+    height="170"
     src="https://streak-stats.demolab.com?user=devloperdevesh&hide_border=true"
   />
 </p>
 
 ---
 
-## Core Focus
+<h2 align="center">Core Engineering Focus</h2>
 
-```txt
-Distributed Systems
-High-Concurrency APIs
-Async Processing Pipelines
-Caching & Performance Engineering
-AI Infrastructure
-Event-Driven Architectures
-```
+<p align="center">
+  Distributed Systems • High-Concurrency APIs • Async Pipelines •
+  AI Infrastructure • Caching • Event-Driven Architectures
+</p>
 
 ---
 
-## Flagship System — High-Concurrency AI Platform
+<h2 align="center">Flagship System</h2>
 
-```txt
-850+ req/sec throughput
-500+ concurrent requests
-Sub-500ms latency
-100K+ documents processed
-```
+<p align="center">
+  Production-grade high-concurrency AI platform
+</p>
 
-### Architecture
+<br>
+
+<div align="center">
+
+| Metric | Scale |
+|:--|:--|
+| Throughput | 850+ req/sec |
+| Concurrent Requests | 500+ |
+| API Latency | Sub-500ms |
+| Documents Processed | 100K+ |
+
+</div>
+
+---
+
+<h3 align="center">Architecture</h3>
 
 ```txt
 Client
-  ↓
+   ↓
 FastAPI Gateway
-  ↓
-Redis Cache
-  ↓
-Kafka Pipelines
-  ↓
-FAISS Retrieval
-  ↓
+   ↓
+Redis Cache Layer
+   ↓
+Kafka Event Pipelines
+   ↓
+FAISS Vector Retrieval
+   ↓
 Multi-LLM Routing
-```
-
----
-
-<p align="center">
-  <sub>
-    Focused on scalable backend engineering and distributed AI systems
-  </sub>
-</p>
