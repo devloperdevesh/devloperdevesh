@@ -7,18 +7,26 @@
 Building scalable backend systems handling **850+ req/sec**  
 with low-latency distributed architectures
 
-FastAPI • Redis • Kafka • Async Systems • RAG
+<p>
+  FastAPI • Redis • Kafka • Async Systems • RAG
+</p>
 
 <br>
 
 <a href="https://linkedin.com/in/devesh-chauhan-6b5691308">
-  <img src="https://img.shields.io/badge/LinkedIn-Devesh_Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Devesh_Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.youtube.com/@thedeveshcodes">
-  <img src="https://img.shields.io/badge/YouTube-thedeveshcodes-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/YouTube-thedeveshcodes-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+    alt="YouTube"
+  />
 </a>
 
 </div>
@@ -48,15 +56,19 @@ event-driven architectures, and production AI systems.
 
 ## Engineering Activity
 
-<img
-  height="170"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
-/>
+<p>
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
+    alt="GitHub Stats"
+  />
 
-<img
-  height="170"
-  src="https://streak-stats.demolab.com?user=devloperdevesh&hide_border=true"
-/>
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=devloperdevesh&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 </div>
 
@@ -93,7 +105,7 @@ Production-grade high-concurrency AI platform
 <div align="center">
 
 | Metric | Scale |
-|:--|:--|
+| :-- | :-- |
 | Throughput | **850+ req/sec** |
 | Concurrent Requests | **500+** |
 | API Latency | **Sub-500ms** |
@@ -110,22 +122,22 @@ Production-grade high-concurrency AI platform
 </div>
 
 ```txt
-                   Client Layer
-                         │
-                         ▼
-                  FastAPI Gateway
-                         │
-                         ▼
-                 Redis Cache Layer
-                         │
-                         ▼
-               Kafka Event Pipelines
-                         │
-                         ▼
-               FAISS Vector Retrieval
-                         │
-                         ▼
-                  Multi-LLM Routing
+                     Client Layer
+                           │
+                           ▼
+                    FastAPI Gateway
+                           │
+                           ▼
+                   Redis Cache Layer
+                           │
+                           ▼
+                 Kafka Event Pipelines
+                           │
+                           ▼
+                 FAISS Vector Retrieval
+                           │
+                           ▼
+                    Multi-LLM Routing
 ```
 
 ---
@@ -133,5 +145,10 @@ Production-grade high-concurrency AI platform
 <div align="center">
 
 ### Building scalable backend systems for real-world workloads
+
+<sub>
+Focused on distributed systems, backend scalability,
+and production-grade AI infrastructure
+</sub>
 
 </div>
