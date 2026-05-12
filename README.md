@@ -20,13 +20,6 @@ with low-latency distributed architectures
   />
 </a>
 
-<a href="https://www.youtube.com/@thedeveshcodes">
-  <img
-    src="https://img.shields.io/badge/YouTube-thedeveshcodes-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-    alt="YouTube"
-  />
-</a>
-
 </div>
 
 ---
