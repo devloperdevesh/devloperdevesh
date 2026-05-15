@@ -5,11 +5,11 @@
 
 ### Backend Engineer • Distributed Systems • AI Infrastructure
 
-Building scalable backend systems with a focus on  
-low-latency APIs, async architectures, and AI-powered applications.
+Building scalable backend systems focused on  
+low-latency APIs, async architectures, and AI applications.
 
 <p align="center">
-  FastAPI • Redis • Kafka • Async Systems • RAG
+  FastAPI • Redis • Kafka • RAG • Async Systems
 </p>
 
 <br>
@@ -25,35 +25,32 @@ low-latency APIs, async architectures, and AI-powered applications.
 
 ---
 
-<div align="center">
-
 ## About Me
 
-</div>
-
 ```txt
-Backend engineer focused on distributed systems,
-high-concurrency APIs, and AI infrastructure.
+Backend engineer focused on scalable systems,
+distributed architectures, and AI infrastructure.
 
-Currently building scalable backend systems using
-FastAPI, Redis, Kafka, vector retrieval, and async pipelines.
+Currently building backend applications using
+FastAPI, Redis, Kafka, vector retrieval,
+and async processing pipelines.
 
 Interested in backend performance engineering,
-event-driven architectures, and production-grade AI systems.
+event-driven systems, and production AI workflows.
 ````
 
 ---
 
-<div align="center">
-
 ## Engineering Activity
+
+<div align="center">
 
 <table>
 <tr>
 <td align="center">
 
 <img
-height="175"
+height="170"
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
 alt="GitHub Stats"
 />
@@ -63,7 +60,7 @@ alt="GitHub Stats"
 <td align="center">
 
 <img
-height="175"
+height="170"
 src="https://streak-stats.demolab.com?user=devloperdevesh&hide_border=true"
 alt="GitHub Streak"
 />
@@ -76,11 +73,7 @@ alt="GitHub Streak"
 
 ---
 
-<div align="center">
-
 ## Core Engineering Focus
-
-</div>
 
 ```txt
 • Distributed Systems
@@ -94,36 +87,24 @@ alt="GitHub Streak"
 
 ---
 
-<div align="center">
-
-## Flagship System
-
-Production-oriented AI backend infrastructure
-
-</div>
-
-<br>
+## Flagship Infrastructure
 
 <div align="center">
 
-| Area              | Focus                |
-| :---------------- | :------------------- |
-| Backend Framework | FastAPI              |
-| Caching Layer     | Redis                |
-| Event Processing  | Kafka                |
-| Retrieval System  | FAISS                |
-| Architecture      | Async & Event-Driven |
-| AI Integration    | Multi-LLM Workflows  |
+| Area               | Stack                |
+| :----------------- | :------------------- |
+| Backend Framework  | FastAPI              |
+| Caching Layer      | Redis                |
+| Event Streaming    | Kafka                |
+| Vector Retrieval   | FAISS                |
+| Architecture Style | Async & Event-Driven |
+| AI Workflows       | Multi-LLM Pipelines  |
 
 </div>
 
 ---
 
-<div align="center">
-
 ## System Architecture
-
-</div>
 
 ```txt
                      Client Layer
@@ -144,6 +125,8 @@ Production-oriented AI backend infrastructure
                     Multi-LLM Routing
 ```
 
+---
+
 <div align="center">
 
 ### Building scalable backend systems for real-world workloads
@@ -154,4 +137,3 @@ and production-oriented AI infrastructure.
 </sub>
 
 </div>
-```
