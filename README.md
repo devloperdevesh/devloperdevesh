@@ -144,8 +144,6 @@ Production-oriented AI backend infrastructure
                     Multi-LLM Routing
 ```
 
----
-
 <div align="center">
 
 ### Building scalable backend systems for real-world workloads
