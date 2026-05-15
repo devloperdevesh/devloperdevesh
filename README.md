@@ -1,11 +1,12 @@
+````md
 <div align="center">
 
 # Devesh Chauhan
 
 ### Backend Engineer • Distributed Systems • AI Infrastructure
 
-Building scalable backend systems handling **850+ req/sec**  
-with low-latency distributed architectures
+Building scalable backend systems with a focus on  
+low-latency APIs, async architectures, and AI-powered applications.
 
 <p align="center">
   FastAPI • Redis • Kafka • Async Systems • RAG
@@ -34,12 +35,12 @@ with low-latency distributed architectures
 Backend engineer focused on distributed systems,
 high-concurrency APIs, and AI infrastructure.
 
-Currently building scalable systems using FastAPI,
-Redis, Kafka, vector retrieval, and async pipelines.
+Currently building scalable backend systems using
+FastAPI, Redis, Kafka, vector retrieval, and async pipelines.
 
 Interested in backend performance engineering,
-event-driven architectures, and production AI systems.
-```
+event-driven architectures, and production-grade AI systems.
+````
 
 ---
 
@@ -52,9 +53,9 @@ event-driven architectures, and production AI systems.
 <td align="center">
 
 <img
-  height="175"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
-  alt="GitHub Stats"
+height="175"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
+alt="GitHub Stats"
 />
 
 </td>
@@ -62,9 +63,9 @@ event-driven architectures, and production AI systems.
 <td align="center">
 
 <img
-  height="175"
-  src="https://streak-stats.demolab.com?user=devloperdevesh&hide_border=true"
-  alt="GitHub Streak"
+height="175"
+src="https://streak-stats.demolab.com?user=devloperdevesh&hide_border=true"
+alt="GitHub Streak"
 />
 
 </td>
@@ -88,7 +89,7 @@ event-driven architectures, and production AI systems.
 • Redis Caching Architectures
 • AI Infrastructure
 • Event-Driven Systems
-• Performance Optimization
+• Backend Performance Optimization
 ```
 
 ---
@@ -97,7 +98,7 @@ event-driven architectures, and production AI systems.
 
 ## Flagship System
 
-Production-grade high-concurrency AI platform
+Production-oriented AI backend infrastructure
 
 </div>
 
@@ -105,12 +106,14 @@ Production-grade high-concurrency AI platform
 
 <div align="center">
 
-| Metric | Scale |
-| :-- | :-- |
-| Throughput | **850+ req/sec** |
-| Concurrent Requests | **500+** |
-| API Latency | **Sub-500ms** |
-| Documents Processed | **100K+** |
+| Area              | Focus                |
+| :---------------- | :------------------- |
+| Backend Framework | FastAPI              |
+| Caching Layer     | Redis                |
+| Event Processing  | Kafka                |
+| Retrieval System  | FAISS                |
+| Architecture      | Async & Event-Driven |
+| AI Integration    | Multi-LLM Workflows  |
 
 </div>
 
@@ -148,8 +151,9 @@ Production-grade high-concurrency AI platform
 ### Building scalable backend systems for real-world workloads
 
 <sub>
-Focused on distributed systems, backend scalability,
-and production-grade AI infrastructure
+Focused on backend scalability, distributed systems,
+and production-oriented AI infrastructure.
 </sub>
 
 </div>
+```
