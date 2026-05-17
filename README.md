@@ -4,9 +4,9 @@
 
 ### Backend Engineer • Distributed Systems • AI Infrastructure
 
-Building scalable backend systems focused on
-high-concurrency APIs, distributed architectures,
-and production-grade AI infrastructure.
+Designing scalable backend systems focused on
+high-concurrency APIs, async architectures,
+event-driven systems, and production AI infrastructure.
 
 <br>
 
@@ -21,7 +21,7 @@ and production-grade AI infrastructure.
 <br>
 
 <img
-height="165"
+height="170"
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
 alt="GitHub Stats"
 />
@@ -30,20 +30,20 @@ alt="GitHub Stats"
 
 ---
 
-## About
+## Engineering Profile
 
 ```txt
 Backend-focused engineer building scalable systems,
 distributed backend architectures, and AI infrastructure.
 
 Focused on backend scalability, async processing,
-event-driven systems, retrieval pipelines,
+retrieval pipelines, observability-first systems,
 and production-oriented engineering.
 ```
 
 ---
 
-## Engineering Focus
+## Core Engineering Areas
 
 ```txt
 • Distributed Systems
@@ -51,35 +51,49 @@ and production-oriented engineering.
 • Async Processing Pipelines
 • Event-Driven Architectures
 • Backend Scalability
-• AI Infrastructure
-• RAG Systems
+• AI Infrastructure Engineering
+• Retrieval-Augmented Generation (RAG)
 • Production Observability
 ```
 
 ---
 
-## Open Source
+## Flagship Infrastructure
 
 ```txt
-• Project Admin, Mentor, and Contributor — GSSoC 2026
-• Maintaining EnterpriseRAG-AI
-• Managing contributors and backend architecture reviews
-• Building observability-focused backend systems
+EnterpriseRAG-AI
+
+Enterprise-focused RAG infrastructure platform
+built around async processing pipelines,
+vector retrieval systems, observability tooling,
+and distributed backend architecture.
 ```
 
 ---
 
-## Infrastructure
+## Open Source Engineering
 
-| Area             | Stack                         |
-| :--------------- | :---------------------------- |
-| Backend          | FastAPI                       |
-| Cache            | Redis                         |
-| Streaming        | Kafka                         |
-| Retrieval        | FAISS                         |
-| Architecture     | Async & Event-Driven          |
-| Observability    | Prometheus • Grafana • Jaeger |
-| Containerization | Docker                        |
+```txt
+• Project Admin, Mentor, and Contributor — GSSoC 2026
+• Maintaining contributor-driven backend infrastructure projects
+• Managing pull requests, architecture reviews, and engineering workflows
+• Building observability-first backend systems for AI workloads
+```
+
+---
+
+## Infrastructure Stack
+
+| Area              | Technologies                  |
+| :---------------- | :---------------------------- |
+| Backend Framework | FastAPI                       |
+| Language          | Python                        |
+| Cache Layer       | Redis                         |
+| Event Streaming   | Kafka                         |
+| Vector Retrieval  | FAISS                         |
+| Architecture      | Async & Event-Driven          |
+| Observability     | Prometheus • Grafana • Jaeger |
+| Containerization  | Docker                        |
 
 ---
 
