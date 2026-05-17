@@ -73,18 +73,6 @@ alt="GitHub Stats"
 
 ---
 
-## Flagship Infrastructure
-
-<div align="center">
-
-## EnterpriseRAG-AI
-
-Enterprise-focused RAG infrastructure platform engineered around async processing pipelines, distributed retrieval systems, vector search infrastructure, observability tooling, and production-grade backend architecture.
-
-</div>
-
----
-
 ## Open Source Engineering
 
 <table>
