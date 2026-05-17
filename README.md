@@ -1,14 +1,36 @@
+<div align="center">
+
 # Devesh Chauhan
 
 ### Backend Engineer • Distributed Systems • AI Infrastructure
 
 Building scalable backend systems focused on high-concurrency APIs, async architectures, distributed processing, and production-grade AI infrastructure.
 
-**FastAPI • Redis • Kafka • RAG Systems • Async Pipelines**
+<br>
+
+<p align="center">
+  <strong>FastAPI</strong> •
+  <strong>Redis</strong> •
+  <strong>Kafka</strong> •
+  <strong>RAG Systems</strong> •
+  <strong>Async Architectures</strong>
+</p>
+
+<br>
+
+<img
+height="165"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
+alt="GitHub Stats"
+/>
+
+<br>
+
+</div>
 
 ---
 
-# About
+## Engineering Profile
 
 ```txt
 Backend-focused engineer building scalable systems,
@@ -25,7 +47,7 @@ and AI backend infrastructure.
 
 ---
 
-# Engineering Focus
+## Core Engineering Areas
 
 ```txt
 • Distributed Systems
@@ -34,26 +56,26 @@ and AI backend infrastructure.
 • Redis Caching Architectures
 • Event-Driven Systems
 • Backend Performance Optimization
+• AI Infrastructure
 • Retrieval-Augmented Generation (RAG)
-• AI Infrastructure Engineering
 • Production Observability
 ```
 
 ---
 
-# Open Source
+## Open Source
 
 ```txt
 • Project Admin, Mentor, and Contributor — GSSoC 2026
 • Maintaining EnterpriseRAG-AI
-• Reviewing pull requests and managing contributors
+• Managing contributors, pull requests, and backend reviews
 • Building observability-focused backend systems
-• Focused on scalable and production-oriented OSS engineering
+• Focused on production-oriented open-source engineering
 ```
 
 ---
 
-# Infrastructure Stack
+## Infrastructure Stack
 
 | Domain            | Technologies                  |
 | :---------------- | :---------------------------- |
@@ -63,13 +85,13 @@ and AI backend infrastructure.
 | Event Streaming   | Kafka                         |
 | Vector Retrieval  | FAISS                         |
 | AI Architecture   | RAG Pipelines                 |
-| Processing Style  | Async & Event-Driven          |
+| Processing Model  | Async & Event-Driven          |
 | Observability     | Prometheus • Grafana • Jaeger |
 | Containerization  | Docker                        |
 
 ---
 
-# System Architecture
+## System Architecture
 
 ```txt
                      Client Applications
@@ -95,19 +117,6 @@ and AI backend infrastructure.
                │
                ▼
           Multi-LLM Routing
-```
-
----
-
-# Current Focus
-
-```txt
-• Scalable backend systems
-• Distributed async architectures
-• Production AI infrastructure
-• Backend observability
-• Retrieval optimization in RAG systems
-• Open-source engineering and maintainership
 ```
 
 ---
