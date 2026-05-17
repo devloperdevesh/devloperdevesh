@@ -1,139 +1,122 @@
-
-<div align="center">
-
 # Devesh Chauhan
 
 ### Backend Engineer • Distributed Systems • AI Infrastructure
 
-Building scalable backend systems focused on  
-low-latency APIs, async architectures, and AI applications.
+Building scalable backend systems focused on high-concurrency APIs, async architectures, distributed processing, and production-grade AI infrastructure.
 
-<p align="center">
-  FastAPI • Redis • Kafka • RAG • Async Systems
-</p>
-
-<br>
-
-<a href="https://linkedin.com/in/devesh-chauhan-6b5691308">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Devesh_Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-</div>
+**FastAPI • Redis • Kafka • RAG Systems • Async Pipelines**
 
 ---
 
-## About Me
+# About
 
 ```txt
-Backend engineer focused on scalable systems,
+Backend-focused engineer building scalable systems,
 distributed architectures, and AI infrastructure.
 
-Currently building backend applications using
-FastAPI, Redis, Kafka, vector retrieval,
-and async processing pipelines.
+Focused on backend scalability, event-driven systems,
+async processing pipelines, retrieval architectures,
+and production-oriented engineering.
 
-Interested in backend performance engineering,
-event-driven systems, and production AI workflows.
-````
-
----
-
-## Engineering Activity
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<img
-height="170"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
-alt="GitHub Stats"
-/>
-
-</td>
-
-<td align="center">
-
-<img
-height="170"
-src="https://streak-stats.demolab.com?user=devloperdevesh&hide_border=true"
-alt="GitHub Streak"
-/>
-
-</td>
-</tr>
-</table>
-
-</div>
+Currently working with FastAPI, Redis, Kafka,
+vector retrieval systems, observability tooling,
+and AI backend infrastructure.
+```
 
 ---
 
-## Core Engineering Focus
+# Engineering Focus
 
 ```txt
 • Distributed Systems
 • High-Concurrency APIs
 • Async Processing Pipelines
 • Redis Caching Architectures
-• AI Infrastructure
 • Event-Driven Systems
 • Backend Performance Optimization
+• Retrieval-Augmented Generation (RAG)
+• AI Infrastructure Engineering
+• Production Observability
 ```
 
 ---
 
-## Flagship Infrastructure
-
-<div align="center">
-
-| Area               | Stack                |
-| :----------------- | :------------------- |
-| Backend Framework  | FastAPI              |
-| Caching Layer      | Redis                |
-| Event Streaming    | Kafka                |
-| Vector Retrieval   | FAISS                |
-| Architecture Style | Async & Event-Driven |
-| AI Workflows       | Multi-LLM Pipelines  |
-
-</div>
-
----
-
-## System Architecture
+# Open Source
 
 ```txt
-                     Client Layer
-                           │
-                           ▼
-                    FastAPI Gateway
-                           │
-                           ▼
-                   Redis Cache Layer
-                           │
-                           ▼
-                 Kafka Event Pipelines
-                           │
-                           ▼
-                 FAISS Vector Retrieval
-                           │
-                           ▼
-                    Multi-LLM Routing
+• Project Admin, Mentor, and Contributor — GSSoC 2026
+• Maintaining EnterpriseRAG-AI
+• Reviewing pull requests and managing contributors
+• Building observability-focused backend systems
+• Focused on scalable and production-oriented OSS engineering
+```
+
+---
+
+# Infrastructure Stack
+
+| Domain            | Technologies                  |
+| :---------------- | :---------------------------- |
+| Backend Framework | FastAPI                       |
+| Language          | Python                        |
+| Caching Layer     | Redis                         |
+| Event Streaming   | Kafka                         |
+| Vector Retrieval  | FAISS                         |
+| AI Architecture   | RAG Pipelines                 |
+| Processing Style  | Async & Event-Driven          |
+| Observability     | Prometheus • Grafana • Jaeger |
+| Containerization  | Docker                        |
+
+---
+
+# System Architecture
+
+```txt
+                     Client Applications
+                              │
+                              ▼
+                      FastAPI API Layer
+                              │
+               ┌──────────────┴──────────────┐
+               ▼                             ▼
+        Redis Cache Layer           Authentication Layer
+               │
+               ▼
+        Kafka Event Pipelines
+               │
+               ▼
+      Async Background Workers
+               │
+               ▼
+        FAISS Vector Retrieval
+               │
+               ▼
+       RAG Query Orchestration
+               │
+               ▼
+          Multi-LLM Routing
+```
+
+---
+
+# Current Focus
+
+```txt
+• Scalable backend systems
+• Distributed async architectures
+• Production AI infrastructure
+• Backend observability
+• Retrieval optimization in RAG systems
+• Open-source engineering and maintainership
 ```
 
 ---
 
 <div align="center">
 
-### Building scalable backend systems for real-world workloads
+### Engineering scalable backend systems for production AI workloads
 
-<sub>
 Focused on backend scalability, distributed systems,
 and production-oriented AI infrastructure.
-</sub>
 
 </div>
