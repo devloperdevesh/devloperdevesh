@@ -4,11 +4,8 @@
 
 ### Backend Engineer • Distributed Systems • AI Infrastructure
 
-<p>
-Designing scalable backend systems focused on <strong>high-concurrency APIs</strong>,
-<strong>async architectures</strong>, <strong>event-driven systems</strong>,
+Designing scalable backend systems focused on <strong>high-concurrency APIs</strong>, <strong>async architectures</strong>, <strong>event-driven systems</strong>,
 and <strong>production-grade AI infrastructure</strong>.
-</p>
 
 <br>
 
@@ -44,7 +41,7 @@ alt="GitHub Stats"
 * High-concurrency APIs
 * Async processing pipelines
 * Distributed infrastructure
-* Production-focused engineering
+* Production-oriented engineering
 
 </td>
 <td width="50%" valign="top">
@@ -82,40 +79,9 @@ alt="GitHub Stats"
 
 ## EnterpriseRAG-AI
 
+Enterprise-focused RAG infrastructure platform engineered around async processing pipelines, distributed retrieval systems, vector search infrastructure, observability tooling, and production-grade backend architecture.
+
 </div>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### Platform Overview
-
-Enterprise-focused RAG infrastructure platform engineered around:
-
-* Async processing pipelines
-* Distributed retrieval systems
-* Vector search infrastructure
-* Observability tooling
-* Production backend architecture
-* Scalable AI workflows
-
-</td>
-<td width="40%" valign="top">
-
-### Engineering Focus
-
-```txt
-• Retrieval Pipelines
-• Distributed Workers
-• Streaming Architecture
-• AI Backend Systems
-• Observability Stack
-• Infrastructure Scalability
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -168,22 +134,8 @@ Managing pull requests, architecture reviews, and engineering workflows
 
 ---
 
-## Engineering Philosophy
-
 <div align="center">
 
-```txt
-Building scalable backend systems engineered for
-performance, reliability, observability,
-and production AI workloads.
-```
-
-</div>
-
----
-
-<div align="center">
-
-### Engineering scalable backend infrastructure for modern AI systems
+### Engineering scalable backend infrastructure for production AI workloads
 
 </div>
