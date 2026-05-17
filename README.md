@@ -13,11 +13,11 @@ and <strong>production-grade AI infrastructure</strong>.
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-Backend-111827?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Redis-Caching-111827?style=for-the-badge&logo=redis" />
-  <img src="https://img.shields.io/badge/Kafka-Streaming-111827?style=for-the-badge&logo=apachekafka" />
-  <img src="https://img.shields.io/badge/RAG-Systems-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Async-Architecture-111827?style=for-the-badge" />
+  <strong>FastAPI</strong> •
+  <strong>Redis</strong> •
+  <strong>Kafka</strong> •
+  <strong>RAG Systems</strong> •
+  <strong>Async Architectures</strong>
 </p>
 
 <br>
@@ -32,30 +32,30 @@ alt="GitHub Stats"
 
 ---
 
-# Engineering Profile
+## Engineering Profile
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Backend Systems Engineering
+### Backend Systems
 
-* Building scalable backend architectures
-* Designing high-concurrency APIs
-* Developing async processing systems
-* Optimizing distributed infrastructure
-* Engineering production-first services
+* Scalable backend architectures
+* High-concurrency APIs
+* Async processing pipelines
+* Distributed infrastructure
+* Production-focused engineering
 
 </td>
 <td width="50%" valign="top">
 
-### AI Infrastructure Engineering
+### AI Infrastructure
 
-* Retrieval-Augmented Generation systems
+* Retrieval-Augmented Generation
 * Vector retrieval pipelines
-* Observability-first infrastructure
+* Observability-first systems
 * AI backend orchestration
-* Event-driven AI workflows
+* Event-driven workflows
 
 </td>
 </tr>
@@ -63,7 +63,7 @@ alt="GitHub Stats"
 
 ---
 
-# Core Engineering Domains
+## Core Engineering Domains
 
 <div align="center">
 
@@ -76,7 +76,7 @@ alt="GitHub Stats"
 
 ---
 
-# Flagship Infrastructure
+## Flagship Infrastructure
 
 <div align="center">
 
@@ -119,29 +119,29 @@ Enterprise-focused RAG infrastructure platform engineered around:
 
 ---
 
-# Open Source Engineering
+## Open Source Engineering
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### Community Leadership
+### Community
 
-Project Admin, Mentor, and Contributor for GSSoC 2026.
-
-</td>
-<td width="33%" align="center">
-
-### Infrastructure Development
-
-Maintaining contributor-driven backend infrastructure projects.
+Project Admin, Mentor, and Contributor — GSSoC 2026
 
 </td>
 <td width="33%" align="center">
 
-### Engineering Workflows
+### Open Source
 
-Managing pull requests, reviews, and scalable development workflows.
+Maintaining contributor-driven backend infrastructure projects
+
+</td>
+<td width="33%" align="center">
+
+### Engineering
+
+Managing pull requests, architecture reviews, and engineering workflows
 
 </td>
 </tr>
@@ -149,7 +149,7 @@ Managing pull requests, reviews, and scalable development workflows.
 
 ---
 
-# Infrastructure Stack
+## Infrastructure Stack
 
 <div align="center">
 
@@ -168,7 +168,7 @@ Managing pull requests, reviews, and scalable development workflows.
 
 ---
 
-# Engineering Philosophy
+## Engineering Philosophy
 
 <div align="center">
 
