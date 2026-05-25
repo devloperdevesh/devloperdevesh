@@ -130,57 +130,6 @@ Managing pull requests, contributor workflows, and infrastructure-oriented colla
 
 </div>
 
----
-
-# Featured Projects
-
-## EnterpriseRAG AI
-
-Observability-driven Retrieval-Augmented Generation platform focused on:
-
-- Semantic retrieval workflows
-- Async execution pipelines
-- Queue-oriented architectures
-- Distributed tracing
-- Runtime observability
-- Streaming infrastructure
-
-<br>
-
-<p align="center">
-
-<strong>FastAPI</strong> •
-<strong>Redis</strong> •
-<strong>Kafka</strong> •
-<strong>OpenTelemetry</strong> •
-<strong>Prometheus</strong>
-
-</p>
-
----
-
-## OmniChat AI
-
-Distributed AI orchestration platform focused on:
-
-- Multi-provider AI routing
-- Async workload orchestration
-- Retry recovery systems
-- Queue stabilization
-- Distributed tracing
-- High-concurrency execution
-
-<br>
-
-<p align="center">
-
-<strong>Golang</strong> •
-<strong>gRPC</strong> •
-<strong>Redis</strong> •
-<strong>Kafka</strong> •
-<strong>OpenTelemetry</strong>
-
-</p>
 
 ---
 
