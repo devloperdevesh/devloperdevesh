@@ -2,25 +2,25 @@
 
 # Devesh Chauhan
 
-### Backend Engineer • Distributed Systems • AI Infrastructure
+### Software Engineer • Distributed Systems • AI Infrastructure
 
-Designing scalable backend systems focused on <strong>high-concurrency APIs</strong>, <strong>async architectures</strong>, <strong>event-driven systems</strong>,
-and <strong>production-grade AI infrastructure</strong>.
+Building distributed systems focused on  
+<strong>async execution</strong>, <strong>observability</strong>, <strong>event-driven workflows</strong>, and <strong>scalable AI systems</strong>.
 
 <br>
 
 <p align="center">
   <strong>FastAPI</strong> •
+  <strong>Golang</strong> •
   <strong>Redis</strong> •
   <strong>Kafka</strong> •
-  <strong>RAG Systems</strong> •
-  <strong>Async Architectures</strong>
+  <strong>OpenTelemetry</strong>
 </p>
 
 <br>
 
 <img
-height="175"
+height="170"
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
 alt="GitHub Stats"
 />
@@ -29,101 +29,163 @@ alt="GitHub Stats"
 
 ---
 
-## Engineering Profile
+# Engineering Profile
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### Backend Systems
+## Distributed Systems
 
-* Scalable backend architectures
-* High-concurrency APIs
-* Async processing pipelines
-* Distributed infrastructure
-* Production-oriented engineering
+- Async execution workflows
+- High-concurrency APIs
+- Queue-oriented architectures
+- Event-driven systems
+- Distributed tracing
+- Reliability engineering
 
 </td>
+
 <td width="50%" valign="top">
 
-### AI Infrastructure
+## AI Infrastructure
 
-* Retrieval-Augmented Generation
-* Vector retrieval pipelines
-* Observability-first systems
-* AI backend orchestration
-* Event-driven workflows
+- Retrieval-Augmented Generation
+- Vector retrieval systems
+- AI orchestration workflows
+- Streaming architectures
+- Observability-first systems
+- Runtime telemetry pipelines
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## Core Engineering Domains
+# Core Engineering Domains
 
 <div align="center">
 
-|  Distributed Systems  | Async Architectures |  Event-Driven Systems  |
-| :-------------------: | :-----------------: | :--------------------: |
-| High-Concurrency APIs | Backend Scalability |    AI Infrastructure   |
-|     RAG Pipelines     |    Observability    | Production Engineering |
+| Distributed Systems | Observability | AI Systems |
+|:---:|:---:|:---:|
+| Async Architectures | Distributed Tracing | RAG Pipelines |
+| Event-Driven Systems | Metrics & Monitoring | AI Orchestration |
+| Queue Systems | OpenTelemetry | Vector Retrieval |
+| Reliability Engineering | Runtime Diagnostics | Streaming Workflows |
 
 </div>
 
 ---
 
-## Open Source Engineering
+# Open Source Experience
 
 <table>
 <tr>
+
 <td width="33%" align="center">
 
-### Community
+## Community
 
 Project Admin, Mentor, and Contributor — GSSoC 2026
 
 </td>
+
 <td width="33%" align="center">
 
-### Open Source
+## Open Source
 
-Maintaining contributor-driven backend infrastructure projects
+Maintaining contributor-driven distributed systems and AI infrastructure projects
 
 </td>
+
 <td width="33%" align="center">
 
-### Engineering
+## Engineering
 
-Managing pull requests, architecture reviews, and engineering workflows
+Managing pull requests, contributor workflows, and infrastructure-oriented collaboration
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## Infrastructure Stack
+# Infrastructure Stack
 
 <div align="center">
 
-| Category                 | Technologies                  |
-| :----------------------- | :---------------------------- |
-| **Backend Framework**    | FastAPI                       |
-| **Programming Language** | Python                        |
-| **Caching Layer**        | Redis                         |
-| **Event Streaming**      | Kafka                         |
-| **Vector Retrieval**     | FAISS                         |
-| **Architecture Style**   | Async & Event-Driven          |
-| **Observability**        | Prometheus • Grafana • Jaeger |
-| **Containerization**     | Docker                        |
+| Category | Technologies |
+|:---|:---|
+| **Languages** | Python • Golang • SQL |
+| **Frameworks** | FastAPI • AsyncIO • gRPC |
+| **Distributed Systems** | Kafka • Redis Queues • Event-Driven Systems |
+| **Databases** | PostgreSQL • MongoDB • Redis |
+| **AI Systems** | RAG Pipelines • FAISS • Vector Retrieval |
+| **Observability** | OpenTelemetry • Prometheus • Grafana |
+| **Cloud & DevOps** | Docker • Kubernetes • AWS • CI/CD |
 
 </div>
 
 ---
 
+# Featured Projects
+
+## EnterpriseRAG AI
+
+Observability-driven Retrieval-Augmented Generation platform focused on:
+
+- Semantic retrieval workflows
+- Async execution pipelines
+- Queue-oriented architectures
+- Distributed tracing
+- Runtime observability
+- Streaming infrastructure
+
+<br>
+
+<p align="center">
+
+<strong>FastAPI</strong> •
+<strong>Redis</strong> •
+<strong>Kafka</strong> •
+<strong>OpenTelemetry</strong> •
+<strong>Prometheus</strong>
+
+</p>
+
+---
+
+## OmniChat AI
+
+Distributed AI orchestration platform focused on:
+
+- Multi-provider AI routing
+- Async workload orchestration
+- Retry recovery systems
+- Queue stabilization
+- Distributed tracing
+- High-concurrency execution
+
+<br>
+
+<p align="center">
+
+<strong>Golang</strong> •
+<strong>gRPC</strong> •
+<strong>Redis</strong> •
+<strong>Kafka</strong> •
+<strong>OpenTelemetry</strong>
+
+</p>
+
+---
+
 <div align="center">
 
-### Engineering scalable backend infrastructure for production AI workloads
+## Engineering scalable distributed systems and AI infrastructure.
 
 </div>
