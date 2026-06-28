@@ -1,6 +1,11 @@
 <div align="center">
 
 # Devesh Chauhan
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=devloperdevesh&label=Profile%20Views&style=flat" alt="Profile Views"/>
+
+<br><br>
 
 ### Software Engineer • Distributed Systems • AI Infrastructure
 
