@@ -19,7 +19,7 @@ Building systems around:
 
 </td>
 
-<td width="65%" align="center" valign="middle">
+<td width="65%" align="center" valign="100%">
 
 <img
 height="130"
