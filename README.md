@@ -5,7 +5,7 @@ Software Engineer focused on **backend infrastructure, distributed systems, and 
 <table>
 <tr>
 
-<td width="100%" valign="top">
+<td width="55%" valign="top">
 
 ### Engineering Focus
 
