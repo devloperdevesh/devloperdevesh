@@ -5,9 +5,9 @@ Software Engineer focused on **backend infrastructure, distributed systems, and 
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-## Engineering Focus
+### Engineering Focus
 
 Building systems around:
 
@@ -19,10 +19,10 @@ Building systems around:
 
 </td>
 
-<td width="40%" align="center" valign="top">
+<td width="45%" align="center" valign="middle">
 
 <img
-height="160"
+height="130"
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
 alt="GitHub Stats"
 />
