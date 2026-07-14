@@ -2,6 +2,13 @@
 
 Software Engineer focused on **backend infrastructure, distributed systems, and AI platforms**.
 
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+## Engineering Focus
+
 Building systems around:
 
 - Async execution
@@ -10,18 +17,20 @@ Building systems around:
 - Distributed tracing
 - AI retrieval workflows
 
+</td>
 
----
-
-<div align="center">
+<td width="40%" align="center" valign="top">
 
 <img
 height="160"
-src="https://github-readme-stats.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&hide_title=true&theme=transparent"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
 alt="GitHub Stats"
 />
 
-</div>
+</td>
+
+</tr>
+</table>
 
 
 ---
