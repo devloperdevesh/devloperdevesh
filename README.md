@@ -1,6 +1,6 @@
 ## About
 
-Software Engineer focused on backend infrastructure and distributed systems.
+Software Engineer focused on **backend infrastructure, distributed systems, and AI platforms**.
 
 Building systems around:
 
@@ -9,7 +9,11 @@ Building systems around:
 - Reliability engineering
 - Distributed tracing
 - AI retrieval workflows
-<br><br>
+
+
+---
+
+<div align="center">
 
 <img
 height="160"
@@ -18,10 +22,11 @@ alt="GitHub Stats"
 />
 
 </div>
+
+
 ---
 
 ## Engineering Practices
-
 
 | Area | Approach |
 |---|---|
