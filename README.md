@@ -4,7 +4,6 @@ Software Engineer focused on **backend infrastructure, distributed systems, and 
 
 <table>
 <tr>
-
 <td width="38%" valign="top">
 
 ### Engineering Focus
@@ -17,6 +16,7 @@ Building systems around:
 - Distributed tracing
 - AI retrieval workflows
 
+</td>
 </tr>
 </table>
 
@@ -28,7 +28,6 @@ alt="GitHub Stats"
 />
 
 
-
 ---
 
 ## Engineering Practices
@@ -36,11 +35,11 @@ alt="GitHub Stats"
 | Area | Approach |
 |---|---|
 | Debugging | Root-cause analysis using logs, metrics, traces, and system behavior |
-| Reliability | Retries, timeouts, fault isolation, and graceful failure handling |
-| Performance | Measuring latency, throughput, and identifying bottlenecks |
-| Observability | Metrics, structured logging, and distributed tracing |
-| System Design | Architecture decisions, scalability, and engineering trade-offs |
-| Testing | Unit tests, integration tests, and failure scenarios |
+| Reliability | Designing retries, timeouts, fault isolation, and graceful failure handling |
+| Performance | Measuring latency, throughput, and identifying system bottlenecks |
+| Observability | Using metrics, structured logging, and distributed tracing for system visibility |
+| System Design | Making architecture decisions with scalability and engineering trade-offs |
+| Testing | Writing unit tests, integration tests, and validating failure scenarios |
 
 
 ---
