@@ -17,12 +17,6 @@ Building systems around:
 - Distributed tracing
 - AI retrieval workflows
 
-</td>
-
-<td width="65%" align="center" valign="100%">
-
-</td>
-
 </tr>
 </table>
 
