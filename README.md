@@ -4,19 +4,21 @@ Software Engineer focused on **backend infrastructure, distributed systems, and 
 
 <table>
 <tr>
+
 <td width="38%" valign="top">
 
 ### Engineering Focus
 
 Building systems around:
 
-- Async execution
+- Async execution and scalable workflows
 - Event-driven architectures
 - Reliability engineering
-- Distributed tracing
+- Distributed tracing and observability
 - AI retrieval workflows
 
 </td>
+
 </tr>
 </table>
 
@@ -34,12 +36,12 @@ alt="GitHub Stats"
 
 | Area | Approach |
 |---|---|
-| Debugging | Root-cause analysis using logs, metrics, traces, and system behavior |
-| Reliability | Designing retries, timeouts, fault isolation, and graceful failure handling |
+| Debugging | Root-cause analysis through logs, metrics, traces, and system behavior |
+| Reliability | Building resilient systems with retries, timeouts, fault isolation, and graceful failure handling |
 | Performance | Measuring latency, throughput, and identifying system bottlenecks |
-| Observability | Using metrics, structured logging, and distributed tracing for system visibility |
-| System Design | Making architecture decisions with scalability and engineering trade-offs |
-| Testing | Writing unit tests, integration tests, and validating failure scenarios |
+| Observability | Improving system visibility through metrics, structured logging, and distributed tracing |
+| System Design | Making scalable architecture decisions with clear engineering trade-offs |
+| Testing | Writing unit tests, integration tests, and validating critical failure scenarios |
 
 
 ---
@@ -48,4 +50,4 @@ alt="GitHub Stats"
 
 Project Admin and Open Source Contributor at **GirlScript Summer of Code (GSSoC)**.
 
-Working on backend infrastructure, distributed systems, and developer-focused projects.
+Working on backend infrastructure, distributed systems, and developer-focused open-source projects.
