@@ -1,29 +1,4 @@
-## About
-
-Software Engineer focused on backend infrastructure, distributed systems, and AI platforms.
-
----
-
-## Engineering Focus
-
-### Core Focus Areas
-
-* **Async Execution** — Scalable workflows and robust task queues.
-* **Event-Driven Architectures** — High-throughput microservices.
-* **Reliability Engineering** — Fault isolation, retries, and graceful degradation.
-* **Distributed Tracing** — Complete system observability and monitoring.
-* **AI Retrieval Workflows** — Advanced search, retrieval, and vector integrations.
-
----
-
-## Metrics & Analytics
-
-<p align="center">
-  <img height="130" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats" />
-  <img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=devloperdevesh&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
+ <img height="130" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats" />
 
 ## Engineering Practices
 
