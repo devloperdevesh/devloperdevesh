@@ -21,7 +21,7 @@ Working on backend infrastructure, distributed systems, and developer-focused op
 ---
 <p align="center">
   <img
-    width="80%"
+    width="70%"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
     alt="GitHub Stats"
   />
