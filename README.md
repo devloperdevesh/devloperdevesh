@@ -1,4 +1,8 @@
- <img height="130" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats" />
+<img
+  width="100%"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=devloperdevesh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
+  alt="GitHub Stats"
+/>
 
 ## Engineering Practices
 
