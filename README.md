@@ -4,6 +4,7 @@ Distributed Systems • Backend Infrastructure • Reliability • Observability
 
 ## Open Source
 *Project Admin & Infrastructure Core Maintainer — GSSoC ’26*
+
 Building reliable infrastructure and developer-focused open-source systems.
 ---
 <p align="center">
