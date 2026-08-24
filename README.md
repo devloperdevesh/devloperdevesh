@@ -5,8 +5,6 @@ Distributed Systems • Backend Infrastructure • Reliability • Observability
 ## Open Source
 *Project Admin & Mentor— GSSoC ’26*
 
-Building reliable infrastructure and developer-focused open-source systems.
----
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devloperdevesh&theme=github"
@@ -14,3 +12,6 @@ Building reliable infrastructure and developer-focused open-source systems.
     width="400"
   />
 </p>
+
+
+ Building reliable infrastructure and developer-focused open-source systems.
