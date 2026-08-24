@@ -3,7 +3,7 @@
   <tr>
     <td valign="top" width="55%">
       <h2>Engineering Focus</h2>
-      <p>Distributed Systems • Backend Infrastructure • Reliability • Observability • Performance</p>
+      <p>Distributed Systems • Infra • SRE  • Observability • Performance</p>
       <h2>Open Source</h2>
       <p><b>Project Admin & Mentor— GSSoC ’26</b></p>
       <p>Building reliable infra & developer-focused open-source systems</p>
